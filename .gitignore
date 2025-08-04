@@ -1,0 +1,36 @@
+ Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python distribution
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# Docker
+*.pid
