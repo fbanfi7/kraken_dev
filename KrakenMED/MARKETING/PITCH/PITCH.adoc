@@ -1,0 +1,88 @@
+<<<<<<< HEAD
+== Test del pitch 
+
+ Se leyo los 2 pitch a una muestra y se les pidio que reporten que entendieron de cada uno 
+
+=== Pitch tecnico
+
+ Es un dispositivo medico que previene la alopecia inducida por quimioterapia mediante la transferencia calorica desde el cuero cabelludo. Se logra una reduccion del calibre vascular del plexo dermohipodermico y una disminucion del metabolismo de las celulas germinales del bulbo del foliculo piloso. Esto minimiza el efecto citotoxico de las drogas oncologicas en ellas.
+
+
+=== Pitch digerido
+
+ Somos Tomas, Javier y Franco, y fundamos una startup, que es una empresa en desarrollo, de dispositivos medicos que utilizan el frio para tratar enfermedades. Nuestro primer equipo es un casco para enfriar el cuero cabelludo y prevenir la caida del pelo durante la quimio. Esto se logra impidiendo que el medicamento de la quimio dañe a las células en donde nace y crece el pelo
+
+
+==== Algunos resultados
+
+ Mas del 75% no entendieron nada del pitch tecnico y a su vez tuvieron dificultad para comprender los conceptos. Tampoco les permitio imaginar fisicamente al dispositivo.
+
+
+ En cuanto al pitch digerido la totalidad de la muestra entendio la idea y de que se trataba.
+
+ 
+Quimioterapia: tratamiento utilizado para matar el cancer
+Perfusion: perforar, meter
+Vasoconstriccion: algo relacionado a los vasos sanguineos
+Foliculo piloso: capilar/poro del pelo, donde nace el pelo
+crioterapia: "algo de frio con terapia",terapia del frio
+Metastasis: cancer generalizado
+Citotoxico: algo toxico/ malo
+
+
+Quimioterapia: tratamiento para matar celulas cancerigenas
+Perfusion: "ni idea", algo que se mezcla y se transfiere, sustancia 
+Vasconstriccion: algo que se contrae, relacionado con venas
+Foliculo piluso: donde se forma el pelo
+Crioterapia: tratamiento con frio
+Metastasis: se trasnfieren las celulas cencerigenas a la sangre
+Citotoxico: una celula toxica
+
+
+Quimioterapia: tratamiento contra el cancer 
+Perfuion: profundidad en algo
+Vasoconstriccion: constriccion de un vaso sanguineo
+Foliculo piloso: un pelo
+Crioterapia: terapia por medio de frio
+Metastasis: division celular
+Citotoxico: toxico a nivel citoplasmatico
+
+
+Quimioterapia: el tratamiento para el cancer. Si no esta muy avanzado.
+Perusion: hacer agujeros, perforar.
+Vasoconstriccion: algo en los vasos sanguineos pero ni idea.
+Foliculo piloso: tiene que ver con el pelo.
+Crioterapia: tratamiento de algo contra el cancer.
+Metastasis: cuando .se disemina a todo el cuerpo el cancer.
+Citotoxico: el efecto que hace el tratamiento contra el cancer (consecuencia)colateral.
+
+
+[cols="e,m,^,>s",width="80%"]
+|================
+^|1 ^|2 ^|3 ^|4
+^|5 
+2.2+^.^|6 
+.3+^.^|7
+^|8
+^|9 
+2.2+.^|10 .^|11 .^|23
+|================
+
+^ me lo centra en x
+^.^ me lo centra en ambos ejes
+.^ me lo centra en Y
+X+ es la cantidad de filas que combino en x
+
+.a+ cantidad de filas que combino en Y
+=======
+
+CABECERA
+
+
+
+Pitch sobre por qué se cae el pelo en la quimioterapia
+
+*_Los tumores son grupos de células malas en el cuerpo que se multiplican descontroladamente, los medicamentos de la quimio buscan éstas células que siempre se reproducen para matarlas. Pero las células del pelo también se reproducen siempre, entonces la quimio también las daña y ésto hace que se caiga el pelo. Enfriando la cabeza se reduce la cantidad de medicamento de quimio que llega al pelo y se lo protege_*
+
+
+>>>>>>> 539b76287bd41ad4720bb21ab9d9445231472ebc

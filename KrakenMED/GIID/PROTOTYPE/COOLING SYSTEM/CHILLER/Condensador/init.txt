@@ -1,0 +1,9 @@
+V0.1
+
+Fecha: 18/11/2021
+
+Autor: Tomas Rodriguez
+
+Modificado por: Tomas Rodriguez
+
+El evaporador tiene que tener la capacidad de potencia del compresor (la unidad condensadora se ya viene toda junta)

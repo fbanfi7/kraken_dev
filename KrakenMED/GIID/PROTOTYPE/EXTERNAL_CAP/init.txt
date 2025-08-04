@@ -1,0 +1,6 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* Se construira un casco externo de neoprene que cubra al aplicador, este tendra tiras de amarre en la pera y en la nuca (estas ultimas simular a un casco de rugby). En su parte frontal tendra el logo de KrakenMED

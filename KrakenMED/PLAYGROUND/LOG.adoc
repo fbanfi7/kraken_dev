@@ -1,0 +1,86 @@
+= Minuta de reunion 3/10 
+
+=== arc42
+estos esta muy bueno hay que chequear que onda, tiene una banda de tempate de todo tipo 
+para software
+https://arc42.org/examples + 
+pdriamos bajar el libro que tiene +
+y dan cursos tb parecen copados 
+
+=== Latex
+encontramo template de latex +
+ https://latex.ppizarror.com/ +
+ tiene un github con un template +
+
+
+
+=== Anteproyecto 
+Terminar, se hace en latex por que no la bancamos +
+hecho el gantt falta arreglar tecnicas y no se que cosa +
+nomre de los tipos 
+
+
+
+
+= Minuta de reunion 4/10
+
+=== latex 
+hacer andar latex 
+siguiendo este tutorial +
+
+https://medium.com/@cr0wg4n/latex-y-visual-studio-code-gu%C3%ADa-de-instalaci%C3%B3n-ca8bef3935e3
+
+=== BP
+los que no dijo sirexmedica ?
+
+=== HOW_WE_DO
+
+Busqueda de estrellas polar
+
+= reunion 10/10
+
+=== planteamos el prototipo 
+
+creamos  la carpeta de com se hacee el dispositivo 
+hicimos las carpetas , control, fuente, carcasa,fluido, enfriador, Acople, casco, sujetador, recirculacion , intercambiador
+
+Como metodologia propusimos plantear como muesrtra de costo el presupuesto del chiller que obtuvimos de STI SA, valuado en 2000 UsD y consideramos que el costo de fabricacion es 30% del valor, vamos a buscar presupuesto para el chiller nuestro con un tope de 600 Usd
+
+=== froma de trabajo 
+
+ se crea por primerra evz un documento que sera la guia para los demas documentos
+
+ === Test del pitch }
+
+ elaboramos 2 pitch umo , con informacion resumida y consisa de lo que hacemos y que es el producto 
+ y otro con informacion predigerida para explicar mejhor lo que hacemos.
+
+ Escribimos y pedimos definicion de cosas que consideramos confusas para la gente y ls pedimos que la definan, y con eso buscamos palabras e ideas claves para poder explicar nuestro pitch
+
+
+=== Minuta de reunion 17 
+
+==== Casoco 
+Se planteo varios diseños de casco
+se consulto con miño acerca de las siliconas que se usan, nos recomendo un capitulo del GADNER sobre silicona y que nos fojemos en los plasticos.Tambien snos dijo que hay un metodo de sellado por radiofrecuencia.
+
+Decimimos hacer un fantoma ergonomico, de la cabeza para diseñar el gorro.
+
+Decidimos hacer el gorro por que nos la bancamos.
+
+tambien vamos a hacer un CLONE A WYLLY de banfi .
+
+Encontramos 2 proveedores de silicona en Argentina y les mandamos mai.
+
+Planteamoo hacre con cera de abeja el circuito interno para luego derretirlo y obtener la pieza de silicona.
+
+Vimos la maquina que esta haciedno el dani y javier se sorprendio de lo genio que somos que imaguinamos como era el enfirador sin nunca antes haberlo visto .
+
+creemos que es una boludes poner agua y alimentacion peltier en la misma guia 
+
+
+
+banfi se fue a hacer su vida.
+
+se busco info acerca del casco y de como se hace el moldeado en silicona.
+

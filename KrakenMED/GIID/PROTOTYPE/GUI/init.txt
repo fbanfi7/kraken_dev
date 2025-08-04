@@ -1,0 +1,12 @@
+V0.2
+Fecha de modificacion: 18/11/2021
+
+Autor: Tomas Rodriguez
+
+Modificado por: Tomas Rodriguez
+
+Requerimientos de entrada para esta version:
+
+* Solo constara de un maqueteado
+* No controlara el hardware del chiller
+* Se realizara en pantalla Nextion de 7", la primera version de esta interfaz sera creada a partir de la interfaz de Orbis I de Paxman

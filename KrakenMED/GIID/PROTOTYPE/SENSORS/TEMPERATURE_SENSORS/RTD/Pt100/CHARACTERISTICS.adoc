@@ -1,0 +1,12 @@
+Tambien agregue un datasheet del PICO Pt-104 que es para adquirir las señales de este sensor, tampoco hay proveedor en Argentina
+
+
+|===
+|Proveedor |Precision |Precio |Rango |Otros
+
+| https://articulo.mercadolibre.com.ar/MLA-624190991-sensor-de-temperatura-arduino-pt-100-pt-100-pt100-_JM#position=1&search_layout=stack&type=item&tracking_id=f3564246-6836-489e-a775-9f632e60d375
+|+/-(0.35+0.005/t
+|$360
+|-200 a 500
+|Ya viene listo para Arduino
+|===

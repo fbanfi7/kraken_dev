@@ -1,0 +1,8 @@
+
+
+Definir cantidad de calor a disipar (aprox 70W siguiendo el modelo utilizado en la tesis de isquemia neuronal en neonatos). 
+
+Definir dimensiones del disipador.
+
+Definir velocidad del fluido, dimensión de cañería y materiales con sus conductividades térmicas.
+

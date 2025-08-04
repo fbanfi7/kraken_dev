@@ -1,0 +1,83 @@
+
+= HOW TO FIND AND EVALUATE A PROVIDER
+
+=== Producto 
+
+* Especificaciones tecnicas
+** Manual/bouccher/datasheet
+** Vida util estipulada
+
+=== Precio
+
+La idea es saber 
+ 
+ * El precio por mayor y menor del producto . 
+
+* forma de pago para cada precio. 
+
+* si se puede bajar el precio comprando por cantidad. 
+
+* Duracion de la oferta  
+
+
+
+=== Ubicacion del proveedor
+
+Porque determina los tiemopos que necesitamos para abastecer el STOCK. Por la gustion de las garantias.
+
+
+=== Tiempo de entrega
+
+Porque necesitamos ese tiempo para programar la Utilizacion del insumo pedido. 
+
+* Regularidad del tiepmo de entrega
+
+* Trazado o no 
+
+Esto es si te lo manda con remito y podes seguir el envio por TRACKING
+
+=== Cantidad minima de venta y maxima 
+
+La minima es por saaber si esta relacionada al precio 
+
+unitario, o si hay al guna ganancia en cpmprar mas de una 
+
+unidad o no tiene mucha disponibilidad del insumo .
+
+La cantidad maxima es para ver cuantos tiene es stock y 
+
+cuantos puede traer en el futuro y en que tiempos.
+
+dimensionar la capacidad de restockearse 
+
+
+
+
+
+
+
+=== Cantidad mansual/anual
+CUanto insumo puede darme en un mes, un año 
+
+=== Certificados 
+
+=== certificados de la empresa
+
+=== contacto 
+
+=== tiempo en el mercado 
+
+
+=== logistiuca de envio / escala 
+
+=== Conocimiento interno de los procesos de la empresa
+
+=== Trazabilidad
+
+
+=== Como almacena el producto 
+
+=== Garantia
+
+=== Facturacion
+

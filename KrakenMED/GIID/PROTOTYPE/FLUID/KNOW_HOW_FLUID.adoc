@@ -1,0 +1,45 @@
+CABECERA
+
+
+== Pasos seguidos para relevar el fluido 
+
+*** Qué tipo de fluido es
+
+* Utilidades y aplicaciones (médico o técnico)
+
+*** Búsqueda de propiedades del fluido
+** Físicas
+** Químicas
+** Térmicas
+** Toxicidad 
+** Corrosión
+
+*** Características e indicaciones
+** Primeros auxilios frente a exposición
+** FDA
+** Incompatibilidad bioquímica
+** Ecología
+** Deposición final
+
+
+*** Comportamiento térmico (según temperatura)
+** Cambio de viscosidad
+** Puntos de fusión/congelamiento
+
+
+*** Proveedores
+** Precios 
+** Ubicaciones
+** Tiempos
+** Cantidad de venta
+** Certificados de producto y de empresa
+** Disponibilidad y envíos (logística)
+** Contacto
+** Tiempo en el mercado
+** Conocimiento de los procesos internos de la empresa
+** Trazabilidad
+** Cómo almacena el producto
+
+
+
+

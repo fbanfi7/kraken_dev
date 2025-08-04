@@ -1,0 +1,57 @@
+= GUIA GENERAL DE BUSQUEDA DE PARES
+
+== Proceso 
+Keywords = palabras clave incluyentes o excluyentes (conceptos clave, AND, NOT, OR, ANDNOT, etc)
+
+
+= qwerys
+
+El proceso de generacion de qwerys esta compuesto por lo siguientes pasos:
+
+1- Obtener no menos de 5 key words sobre la tematica que se desea investigar
+
+2- Luego hacer una busqueda exploratoria relacionando estas key words
+
+3- De esta busqueda, mediante el analisis de titulos, abstracts y citas recolectar no menos de 5 nuevas key words
+
+4- Formular un nuevo qwery con el nuevo pool de key words
+
+5- Iterar hasta obtener una cantidad de papers que justifiquen el marco conceptual (menos de 800)
+
+=== Los qwery de busqueda van en el cuadro, crea la carpeta y dejala en blanco 
+El procedimiento es el siguiente 
+agrega el qwery en la tabla y despues crea una carpeta con la secuencia que corresponda ( despues de B1 viene B2 )
+en la carpeta va un txt con el qwery y el analisis de la busqueda, este archivo se llamara cabecera de la busqueda, y sera nombrado como Bx_cabecera.txt. En la cabecera tambien debera registrarse la cantidad de papers que se encontraron en la busqueda y los remanentes luego de cada criterio utilizado que tambien debera estar explicado en dicha cabecera.
+despues tenes que poner el CVS de la busqueda en la carpeta y cuando termine el analisis del CVS, van los papers que quedaron.
+Si se usa prisma en el txt deberian ir los procedimientos o algo asi, todavia no sabemos como usar prisma bien asi que manejate o te corremos a la mierda  
+
+.ejemplo
+[width="100%",cols=">s,^m,e",frame="topbot",options="header,footer"]
+|==========================
+| busquedas  | Qwery | carpeta
+|1       |scalp AND hypothermia AND chemotherapy AND cancer AND hair bulb AND metabolism AND cellular  | B1 resultados 861 por criterio 280 rep 
+<<<<<<< HEAD
+|2       |(pharmacokinetic OR (pharmacodynamic) AND chemotherapy AND cooling OR (hypothermia)) |B2
+=======
+|3       |(scalp OR (bulb hair) OR cells) AND hypothermia AND (perfusion OR oxygenation OR circulation OR irrigation OR vasoconstriction)  |B2, resultados 1894
+>>>>>>> fcefe93479f825a2d5b4678aa5009d4f75f8a5c3
+|4       |(blood flow OR perfusion OR vasoconstriction OR microcirculation) AND (temperature OR cool*) NOT (brain OR heart OR liver OR renal OR kidney OR preservation)|B3 la idea es buscar algo mas simple y general para luego ir afinando el qwery
+|5       |(cool* OR cold OR temperature OR freez*) AND (damage OR burn OR injury OR frostbite) AND skin   |B3 en la busqueda exploratoria salieron cosas chetas con este qwery
+|6       |(cool* OR cold OR temperature OR effect) AND (metabolism OR metabolic rate OR cold induced metabolism)   |B4 
+|7|(heat) AND (dissipation OR regulation OR change) AND (head OR scalp)|B5, para conocer bien el calor a disipar en la cabeza y su distribución
+|footer 1|footer 2|footer 3
+|==========================
+
+= Que hago con esa busqueda exploratoria?
+
+Una vez definidos los qwerys se procede de la siguiente forma:
+
+1- Buscar en las bases de datos seleccionadas con el qwery formulado
+
+2- Exportar en un archivo CVS los resultados de la busqueda
+
+3- Clasificar estos papers encontrados segun el criterio (verde, amarillo, rojo). En el txt de la carpeta Bx definir los principios de inclusion y exclusion, base de datos de procedencia de los papers y cantidad de papers en cada instacia de clasificacion
+
+4- Revisar los marcados en amarillo para su definicion final, a traves de la lectura completa del articulo
+
+5- Agregar a la carpeta correspondiente los articulos completos marcados en verdes a la carpeta de VS y Mendeley

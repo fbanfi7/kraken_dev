@@ -1,0 +1,179 @@
+= KNOW_HOW
+
+
+=======
+
+Celdas Peltiers
+
+*_Relevar la tecnologia peltier como potencial fuente de intercambio de calor del modulo de enfriamiento._*
+
+*_Para esto se relevara que celdas peltier hay en el mercado para uso medico, cual es la mejor comfiguracion de estas, quienes son los proovedores en argentina de celdas peltiers y cual es su potencial capacidad de respuesto._*
+
+*_Analizar : pontencias, tipos, bajar hojas de datos de cada una, buscar ejemplos de estos en scholar y youtube,
+buscar circuitos en KIT, relevar marcas_*
+
+
+=======
+
+== Metodo de analisis 1
+Busco en mercadolibre que hay, para enternder el precio , me fijo quienes son los proveedores, guardo los link obtengo las datasheet.
+
+Busco ejemplos que tiene estas celda que se usen con fines parecidos a los que quiero darle.
+
+
+=== Tipos celdas peltier en argentina.
+
+ [blue]#Tec1-12706# $538  todomicro  
+ 
+- Material cerámico
+- Cable de 30cm
+- Temperatura lado caliente: 50-57ºC
+- Delta de temperatura: 66-75ºC
+- Corriente máxima: 6.4A
+- Voltaje nominal: 12V
+- Voltaje máximo: 16.4V
+- Potencia nominal: 72W
+- Resistencia de la celda 1.98-2.30 Ohms
+
+
+[blue]#Tec1_12705# $550 candy ho
+
+- Modelo: TEC1-12705
+- Voltaje de Operación: 0-15V DC (12V nominal)
+- IMAX (A): 5A
+- Tmax(QC=0): hasta 67° C
+- Potencia de enfriamiento: Qcmax 49W
+- Longitud del cable: 30cm
+- Dimensiones: 40 x 40 x 4 mm
+
+[blue]#TEC1-12715#   $1404.0 TIENDA.ITYT
+
+-Voltaje de Operación: 0-15V DC (12V nominal)
+-Corriente de trabajo: 0-15A
+-Potencia nominal: 100 ~ 150W
+-Temperatura de trabajo: -30ºC hasta 90ºC
+-Color: Blanco
+-Material: plástico + cerámica
+-Longitud del cable: 30cm
+-Dimensiones: 4,0 cm x 4,0 cm x 0,4 cm
+
+[blue]#Tec1-12708#  $690  SIETECH
+
+-SIETECH
+- Voltaje de Operación: 0-12V DC (VMax 15.2V)
+- Color: Blanco
+- Material: de plástico + cerámica
+- Vmax (V): 15.2V
+- Potencia: Wmax 96-121W
+- Corriente de trabajo: 0-8A
+- Tmax(QC=0): hasta 75° C
+- Temperatura de funcionamiento:-30 ° C a 83 ° C
+- Dimensiones: 40 x 40 x 4 mm
+
+[blue]#TEC1-12709# $961 CIBEROFICE
+
+-ACOPLAMIENTOS: 127
+-Umax (V): 15.2V
+-I max (A): 9A
+-Tmax: 67°
+-Dimensiones: 40mm x 40mm x 3.5mm
+-LONGITUD DE LOS CABLES: 32cm
+-POTENCIA MAXIMA: 136.8W
+
+[blue]#Tec1-12710#
+
+-Tamaño: Aprox. 40 x 40 x 3,8 a 4.1 mm
+-Voltaje: 12V
+-Umax (V): 15V
+-Potencia de enfriamiento: Qcmax 89W
+-IMAX (A): 10A
+-Tmax(QC=0): hasta 65° C
+- Temperatura de funcionamiento:-30 ° C a 83 ° C
+- Cable de alimentación: Aprox. 25cm
+
+
+[blue]#TEC1-12712#
+
+- Voltaje de Operación: 0-15V DC (12V nominal)
+- IMAX (A): 12A
+- Tmax(QC=0): hasta 63° C
+- Potencia de enfriamiento: Qcmax 114W
+- Temperatura de trabajo: -30 ° C a 83 ° C
+- Color: Blanco
+- Material: plástico + cerámica
+- Dimensiones: Aprox. 40 mm x 40 mm x 3,2 mm
+
+
+=== Hojas de datos
+Tec1-12706
+
+https://pdf1.alldatasheet.com/datasheet-pdf/view/227422/ETC2/TEC1-12706.html
+
+Tec1-12705
+
+https://www.alldatasheet.com/datasheet-pdf/pdf/313838/HB/TEC1-12705.html
+
+
+Tec1 12715 
+
+https://www.alldatasheet.com/datasheet-pdf/pdf/739997/HB/TEC1-12715HTS.html
+
+Tec1 12708
+
+https://www.alldatasheet.com/datasheet-pdf/pdf/313842/HB/TEC1-12708.html
+
+Tec1 12710
+
+https://www.alldatasheet.com/datasheet-pdf/pdf/227420/ETC2/TEC1-12710.html
+
+Tec1 12712
+no encuentro 
+
+
+=== Links
+
+=== Proveedores
+
+TODOMICRO
+
+[red]#ver si tiene factura.# 
+
+https://articulo.mercadolibre.com.ar/MLA-637708118-tec1-12706-celda-peltier-12706-12v-60w-cava-frigobar-_JM#position=2&type=item&tracking_id=ee8d3a7b-e7af-4b08-9cbb-6cdb90ca0fbf
+
+
+
+CANDY_HO
+
+[red]#ver si tiene factura.# 
+
+https://candy-ho.com/
+
+
+
+Tienda Ityt
+
+[red]#ver si tiene factura.# 
+
+
+https://www.mercadolibre.com.ar/perfil/TIENDA.ITYT
+
+
+
+SIETECH 
+
+[red]#ver si tiene factura.# 
+
+https://www.mercadolibre.com.ar/perfil/SIETECH
+
+
+CIBEROFICIE
+
+https://www.mercadolibre.com.ar/perfil/CYBEROFICE
+
+
+== *Cosas hechas con esta tecnologia*
+
+
+
+
+

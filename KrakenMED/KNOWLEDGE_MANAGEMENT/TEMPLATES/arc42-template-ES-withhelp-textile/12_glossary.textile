@@ -1,0 +1,46 @@
+h1(#section-glossary). Glosario
+
+*Contenido.*
+
+Los términos técnicos y de dominio más importantes que serán utilizados por las partes relacionadas al discutir el sistema.
+
+También se puede usar el glosario como fuente para traducciones si se trabaja en equipos multi&#45;lenguaje.
+
+*Motivación.*
+
+Deberían definirse claramente los términos, para que todas las partes relacionadas:
+
+* Tengan un entendimiento idéntico de dichos términos
+* No usen sinónimos y homónimos
+
+*Forma.*
+
+Crear una tabla con las columnas &lt;Término&gt; y &lt;Definición&gt;.
+
+Se pueden agregar más columnas en caso de que se requieran traducciones.
+
+<table>
+<col width="50%" />
+<col width="50%" />
+<thead>
+<tr class="header">
+<th align="left">Término</th>
+<th align="left">Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">&lt;Término&#45;1&gt;
+</td>
+<td align="left">&lt;definicion&#45;1&gt;
+</td>
+</tr>
+<tr class="even">
+<td align="left">&lt;Término&#45;2&gt;
+</td>
+<td align="left">&lt;definicion&#45;2&gt;
+</td>
+</tr>
+</tbody>
+</table>
+

@@ -1,0 +1,30 @@
+= Objetivo 
+
+Aplicar al 100% los concursos que matcheen con nuestro emprendimiento,hasta diciembre de 2021. En los cuales se pueda participa en español e ingles, priorizando los concursos en español.
+
+= Key results 
+* Encontrar los 3 concursos mas relevantes del mes segun los intereses de nuestro proyecto.
+Aclaracion: Relevante por
+
+ ** Publicidad 
+ ** Premios 
+ ** Reconocimiento 
+ ** Mentorias
+ ** Potenciales socios 
+ ** contactos estrategicos 
+ ** Validacion del plan de negocio, mercado, comunidad 
+ 
+* Crear una base de datos de al menos 50 concursos de mech tech por mes.
+* Aplicar a los 3 concursos más relevantes del mes.
+* Encontrar los 3 concursos más relevantes del mes próximo.
+
+
+= Tareas
+* Llenar la planilla de concursos
+* Priorizar por relevancia
+* Matcheo en base a, por orden:
+** Fecha de apertura y cierre y a quién estaría dirigido (empresas, start ups, tecnologia de salud)
+** Relevancia (definido anteriormente)
+** Rubros de ganadores previos (tenian prototipos, ventas, etc.)
+** Contraste entre lo que piden y lo que tenemos (diferencias qué nos falta)
+** Cronograma de instancias y qué pide cada una

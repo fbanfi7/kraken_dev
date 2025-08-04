@@ -1,0 +1,103 @@
+
+Metodologia para trabajar. Como metodologia propusimos plantear como muesrtra de costo el presupuesto del chiller que obtuvimos de STI SA, valuado en 2000 UsD y consideramos que el costo de fabricacion es 30% del valor, vamos a buscar presupuesto para el chiller nuestro con un tope de 600 Usd
+
+== 1-Relevamiento del chiller comercial de STI
+
+El chiller comercial consta de:
+
+* Compresor rotativo 1 Hp
+* Bomba interna de recirculacion incluida
+* Tanque de agua (capacidad 10L.)
+* Detector de flujo en bomba
+* Controlador electronico
+* Medidas: 700mm x 140mm x 500 mm (altura)
+* 220V - 50 Hz 
+* Consumo nominal 1A
+* Indicar de falla
+* Indicador de nivel de agua
+
+Precio final 1500 USD + IVA *Sumando el controlador nos da un total de 2000 USD*
+
+*Condiciones comerciales:*
+El presupuesto no incluye instalación de la máquina.
+
+Flete a cargo del comprador. 
+Equipo probado y embalado puesto sobre camión en nuestra planta de Santa fe.
+
+Valores expresados en dólares, convertibles al tipo de cambio oficial de banco Nación a la fecha de pago.
+
+Mantenimiento de oferta: 10 días
+
+Plazo de entrega: 60 días.
+
+Forma de pago: Anticipo 50% y saldo contra entrega.
+
+
+== 2- Relevamiento y precio de los componentes del chiller
+
+* Compresor rotativo 1 Hp: 
+
+https://compresoresdeaire.xyz/rotativos/
+
+Primero se debe seleccionar un fluido de trabajo del compresor de acuerdo a sus caracteristicas en el datasheet (inflamabilidad, toxicidad, eficiencia, etc) y luego proceder a la busqueda de un compresor para dicho fluido. Lo ideal es que sea inverter par poder controlar el flujo.
+
+Se relevo la inflamabilidad, daños a la salud y toxicidad con el ambiente. Los refrigerantes son:
+
+
+* R290: inflamable categoria 1 (extremadamente inflamable). Esto es condicion suficiente para descartarlo.
+High concentrations may cause drowsiness, headache and dizziness. If the amount of oxygen in the air drops below 17% may cause
+unconsciousness, asphyxia and / or CNS depression. Contact with compressed gas may cause frostbite and serious ocular injury.
+The substance will be readily biodegradable and it is not expected to persist in the environment. 
+https://www.refrigerantboys.com/wp-content/uploads/2019/10/MSDS_R290_ENG_Vers.-4.pdf 
+
+
+
+* R32: extremadamente inflamable.
+In low concentrations may cause narcotic effects. Symptoms may include dizziness, headache, nausea and loss of coordination. In high concentrations may cause asphyxiation. Symptoms may include loss of mobility/consciousness. Victim may not be aware of asphyxiation. 
+
+Toxicity: When discharged in large quantities may contribute to the
+greenhouse effect. 
+
+http://www.eurorefrigerant.com/datasheet/r32.pdf
+
+
+
+* R410a: R-410A is low in acute toxicity in animals. When oxygen levels in air are reduced to 12-14% by displacement, symptoms of asphyxiation, loss of coordination, increased pulse rate and deeper respiration will occur. At high levels, cardiac arrhythmia may occur.
+
+R-410A is not flammable at ambient temperatures and atmospheric pressure. However, this material will become
+combustible when mixed with air under pressure and exposed to strong ignition sources.
+Contact with certain reactive metals may result in formation of explosive or exothermic reactions under specific
+conditions (e.g. very high temperatures and/or appropriate pressures)
+
+Degradability (BOD): R-410A is a gas at room temperature; therefore, it is unlikely to remain in water
+
+https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeE0YJv1LI%2b2cKmVQAZDRdfsddB5zxzJXIW7nbmF5mKrdg%3d%3d
+
+
+* R22: inflamabilidad:H280 Contains gas under pressure; may explode if heated. May displace oxygen and cause rapid suffocation. This substance is not flammable in air at temperatures up to
+100 °C (212 °F) at atmospheric pressure. However, mixtures
+of this substance with high concentrations of air at elevated
+pressure and/or temperature can become combustible in the
+presence of an ignition source. This substance can also become combustible in an oxygen enriched environment (oxygen concentrations greater than that in air)
+
+Vapors are heavier than air and can cause suffocation by reducing oxygen available for breathing.
+Misuse or intentional inhalation abuse may cause death without warning symptoms, due to cardiac effects. Rapid evaporation of the product may cause frostbite.
+
+Degradability (BOD): R-22 is a gas at room temperature; therefore, it is unlikely to remain in water.
+
+https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeEDI%2bt1ZYIdKytxsgXPcsOsddB5zxzJXIW7nbmF5mKrdg%3d%3d
+
+
+R134a: inflamabilidad H280, igual categorizacion que el R22
+
+
+
+=== Compresores que reunen las caracteristicas de la marca GCMMM de Toshiba
+
+
+ASM113V1VDZ R-410A, 10970 BTU/H, 745W de potencia
+
+HSM145V1UFZ R-22, 8762 BTU/H, 783 W de potencia 
+
+
+https://climate.emerson.com/ Esta pagina tiene banda de productos para refrigeracion, puede ser muy util

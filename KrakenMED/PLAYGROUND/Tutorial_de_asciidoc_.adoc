@@ -1,0 +1,80 @@
+= level 0 =
+
+toc::
+
+
+===== *Mi tuto de asciidoc*
+*esto es en negritas*
+
+_esto es en italíc_
+
+*_italic negrita_*
+
+[red]#palabra en rojo#
+
+[blue]#palara en azul#
+
+[pink]#palabra en rosa#
+
+[green]#palabra en verde# 
+
+[white]#palabra en blanco#
+
+
+White Silver Gray Black	Red	Maroon Yellow Olive Lime green Green Aqua cyan Teal Blue Fuchsia Purple
+
+Pastru tex  
+
++++ *no se* +++
+
+=== Lineas y parrafos
+
+
+
+
+ esto es una idea.
+ esto es otra idea.
+ esto e media idea y 
+
+
+ [green]#palabra en verde# 
+
+ la otra mitad
+ no se por que hace todo bien  para mi es porque tiene un plugin. o no se que onda porque no necesito hacer lo que hace la mina del videocuando por que enter
+ no se que mierda es la linea esta 
+
+
+=== esto es otro linea para probar
+
+
+esta es una idea. + 
+esta es otra. +
+esta es una mas. + 
+y esta es otra.
+
+esta es una idea.
+
+esta es otra.
+
+
+
+esta es una mas. 
+
+y esta es otra.
+
+
+esta es una idea.
+esta es otra.
+esta es una mas. 
+y esta es otra.
+
+=== Tipos de cabeceras
+
+
+
+text.
+
+==level 1 ==
+
+
+

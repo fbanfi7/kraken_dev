@@ -1,0 +1,158 @@
+h1(#section-building-block-view). Vista de Bloques
+
+*Contenido.*
+
+La vista de bloques muestra la descomposición estática del sistema en bloques de construcción (módulos, componentes, subsistemas, clases, interfases, paquetes, bibliotecas, marcos de desarrollo, capas, particiones, funciones, macros, operaciones, estructuras de datos,...) así como sus dependencias (relaciones, asociaciones,...)
+
+Esta vista es obligatoria para cualquier documentación de arquitectura. Es la analogía al plano de una casa.
+
+*Motivación.*
+
+Mantener una visión general de su código fuente haciendo su estructura comprensible de manera abstracta.
+
+Esto permite comunicar a las partes interesades en un nivel abstracto sin entrar en detalles de implementación.
+
+*Forma.*
+
+La vista de bloques comprende una colección jerárquica de cajas negras y cajas blancas (ver figura de abajo) y sus descripciones.
+
+!images/05_building_blocks-ES.png(Jerarquía de bloques de construcción)!
+
+*Nivel 1* comprende la descripción de Caja Blanca del sistema en general junto con las descripciones de Caja Negra de todos los bloques contenidos.
+
+*Nivel 2* hace zoom a los bloques de construcción del Nivel 1. Entonces contiene la descripción de Caja Blanca de los bloques de construcción selecionadas del nivel 1,junto con las descripciones de caja negra de sus bloques de construcción internas.
+
+*Nivel 3* Hace zoom a los bloques selectos del nivel 2, y así sucesivamente.
+
+h2(#_sistema_general_de_caja_blanca). Sistema General de Caja Blanca
+
+Aquí se describe la descomposición del sistema en general usando la siguiente plantilla de caja blanca. Contiene:
+
+* Un diagrama general
+* La motivación para la descomposición
+* Descripciones de caja negra de los bloques de construcción contenidos. Para estos se ofrecen las siguientes alternativas:
+** Usar _una_ tabla para una revisión pragmática y corta de todos los bloques de construcción contenidos y sus interfaces
+** Usar una lista de descripciones de caja negra de los bloques de construcción acorde a la plantilla de caja negra (ver abajo). Dependiendo de la herramienta utilizada, esta lista podría constar de sub&#45;capítulos (en archivos de texto), sub&#45;páginas (en un wiki) o elementos anidados (en una herramienta de modelado).
+* (opcional:) Interfases importantes, que no están explicadas en las plantillas de caja negra de un bloque de construcción, pero que son muy importantes para entender la caja blanca. En el peor de los casos se deberá especificar y desribir la sintaxis, semántica, protocolos, manejo de errores, restricciones, versiones, calidades, compatibilidades necesarias, entre otras. En el mejor de los casos bastará con ejemplos o la firma de los mismos.
+
+_*&lt;Diagrama general&gt;*_
+
+<dl>
+<dt>Motivación</dt>
+<dd><p>_&lt;Explicación en texto&gt;_</p></dd>
+<dt>Bloques de construcción contenidos</dt>
+<dd><p>_&lt;Desripción de los bloques de construcción contenidos (Cajas negras)&gt;_</p></dd>
+<dt>Interfases importantes</dt>
+<dd><p>_&lt;Descripción de las interfases importantes&gt;_</p></dd>
+</dl>
+
+Inserte las explicaciones de las cajas negras del nivel 1:
+
+Si usa la forma tabular solo describa las cajas negras con nombre y responsabilidad acorde al siguiente esquema:
+
+<table>
+<col width="33%" />
+<col width="66%" />
+<thead>
+<tr class="header">
+<th align="left">*Nombre*</th>
+<th align="left">*Responsabilidad*</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">_&lt;caja negra 1&gt;_
+</td>
+<td align="left"> _&lt;Texto&gt;_
+</td>
+</tr>
+<tr class="even">
+<td align="left">_&lt;caja negra 2&gt;_
+</td>
+<td align="left"> _&lt;Texto&gt;_
+</td>
+</tr>
+</tbody>
+</table>
+
+Si utiliza una lista de descripciones de cajas negras entonces llene una plantilla de caja negra por cada bloque de construcción importante. El título es el nombre de la caja negra.
+
+h3(#__caja_negra_1). &lt;Caja Negra 1&gt;
+
+Aqui se describe la &lt;caja negra 1&gt; acorde a la siguiente plantilla:
+
+* Propósito/Responsabilidad
+* Interfases, cuando no son extraídas como párrafos separados. Estas interfases pueden incluir características de calidad y rendimiento.
+* (Opcional) Características de Calidad / Rendimiento de la caja negra, por ejemplo, disponibilidad, comportamiento en ejecución, ...
+* (Opcional) Ubicación archivo/directorio
+* (Opcional) Requerimientos satisfechos (si se necesita contar con la trazabilidad a los requerimientos).
+* (Opcional) Incidentes/problemas/riesgos abiertos
+
+_&lt;Propósito/Responsabilidad&gt;_
+
+_&lt;Interfase(s)&gt;_
+
+_&lt;(Opcional) Características de Calidad/Performance&gt;_
+
+_&lt;(Opcional) Ubicación Archivo/Directorio&gt;_
+
+_&lt;(Opcional) Requerimientos Satisfechos&gt;_
+
+_&lt;(Opcional) Riesgos/Problemas/Incidentes Abiertos&gt;_
+
+h3(#__caja_negra_2). &lt;Caja Negra 2&gt;
+
+_&lt;plantilla de caja negra&gt;_
+
+h3(#__caja_negra_n). &lt;Caja Negra N&gt;
+
+_&lt;Plantilla de caja negra&gt;_
+
+h3(#__interfase_1). &lt;Interfase 1&gt;
+
+...
+
+h3(#__interfase_m). &lt;Interfase m&gt;
+
+h2(#_nivel_2). Nivel 2
+
+Aquí se especifica la estructura interna de (algunos) bloques de construcción del nivel 1 como cajas blancas.
+
+Debe decidir cuales bloques de construcción del sistema son lo suficientemente importantes para justificar una descripción detallada. Prefiera la relevancia sobre la completitud. Especifique bloques de construcción importantes, sorprendentes, riesgosos, complejos o volátiles. Deje fuera las partes normales, simples, estándares o aburridas del sistema.
+
+h3(#_caja_blanca_emphasis_bloque_de_construcci_n_1_emphasis). Caja Blanca _&lt;bloque de construcción 1&gt;_
+
+...Describe la estructura interna de _bloque de construcción 1_.
+
+_&lt;plantilla de caja blanca&gt;_
+
+h3(#_caja_blanca_emphasis_bloque_de_construcci_n_2_emphasis). Caja Blanca _&lt;bloque de construcción 2&gt;_
+
+_&lt;plantilla de caja blanca&gt;_
+
+...
+
+h3(#_caja_blanca_emphasis_bloque_de_construcci_n_m_emphasis). Caja Blanca _&lt;bloque de construcción m&gt;_
+
+_&lt;plantilla de caja blanca&gt;_
+
+h2(#_nivel_3). Nivel 3
+
+Aqui se especifica la estructura interna de (algunos) de los bloques de construcción del nivel 2 como cajas blancas.
+
+Cuando la arquitectura requiera más niveles detallados copiar esta sección para niveles adicionales.
+
+h3(#_caja_blanca_bloque_de_construcci_n_x_1). Caja Blanca &lt;&#95;bloque de construcción x.1&#95;&gt;
+
+Especifica la estructura interna de _bloque de construcción x.1_.
+
+_&lt;plantilla de caja blanca&gt;_
+
+h3(#_caja_blanca_bloque_de_construcci_n_x_2). Caja Blanca &lt;&#95;bloque de construcción x.2&#95;&gt;
+
+_&lt;plantilla de caja blanca&gt;_
+
+h3(#_caja_blanca_bloque_de_construcci_n_y_1). Caja Blanca &lt;&#95;bloque de construcción y.1&#95;&gt;
+
+_&lt;plantilla de caja blanca&gt;_
+

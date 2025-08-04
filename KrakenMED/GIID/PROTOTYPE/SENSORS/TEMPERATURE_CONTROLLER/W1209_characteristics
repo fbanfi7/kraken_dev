@@ -1,0 +1,10 @@
+Temperature Control Range: -50 ~ 110 C
+Resolution at -9.9 to 99.9: 0.1 C
+Resolution at all other temperatures: 1 C
+Measurement Accuracy: 0.1 C
+Control Accuracy: 0.1 C
+Refresh Rate: 0.5 Seconds
+Input Power (DC): 12V
+Measuring Inputs: NTC (10K 0.5%)
+Waterproof Sensor: 0.5M
+Output: 1 Channel Relay Output, Capacity: 10A

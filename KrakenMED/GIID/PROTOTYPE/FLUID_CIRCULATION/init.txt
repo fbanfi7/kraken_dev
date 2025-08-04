@@ -1,0 +1,6 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* La circulacion del fluido estara a cargo de la bomba de 9 l/min de lavarropas del turco

@@ -1,0 +1,111 @@
+% Template:     Professional-CV
+% Advertencia:  Archivo principal
+% Versión:      2.0.0 (01/07/2020)
+% Codificación: UTF-8
+%
+% Autor: Pablo Pizarro R.
+%        Facultad de Ciencias Físicas y Matemáticas
+%        Universidad de Chile
+%        pablo@ppizarror.com
+%
+% Sitio web:    [https://latex.ppizarror.com/Professional-CV/]
+% Licencia MIT: [https://opensource.org/licenses/MIT/]
+
+% CREACIÓN DEL DOCUMENTO
+\documentclass[11pt,letterpaper]{article} % Articulo tamaño carta, 11pt
+\usepackage[utf8]{inputenc} % Codificación UTF-8
+
+% INFORMACIÓN DEL USUARIO
+\def\nombreautor {John Doe}
+\def\correoautor {user@email.com}
+\def\telefonoautor {+1234567890}
+\def\ciautor {12.345.678-9}
+\def\linkredsocial {https://linkedin.com}
+
+\def\direccionautor {Nombre Calle, \#123}
+\def\regionautor {Región}
+\def\paisautor {País}
+
+\def\edadautor {99}
+\def\dianacimientoautor {1}
+\def\mesnacimientoautor {Enero}
+\def\anonacimientoautor {1980}
+
+\def\fotoautor {img/foto}
+\def\firmaautor {img/firma}
+
+% IMPORTACIÓN DEL TEMPLATE
+\input{template}
+
+% INICIO DEL DOCUMENTO
+\begin{document}
+
+% CONFIGURACIONES DE PÁGINA
+\templatePagecfg
+
+% PÁRRAFO DE RESUMEN (ALTERNATIVA: photosummary)
+\begin{summary}
+	\emph{\lipsum[75]}
+	~ \\
+	\lipsum[4]
+\end{summary}
+
+% TABLA ANTECEDENTES PERSONALES
+%	Desactivar la foto con la configuración \personaltabledatapic
+\begin{personaltabledata}
+	\personaltableentry{Fecha de Nacimiento}{\dianacimientoautor de \mesnacimientoautor del \anonacimientoautor}
+	\personaltableentry{Lugar de Nacimiento}{Ciudad, Región, País}
+	\personaltableentry{Edad}{99 años}
+	\personaltableentry{Nacionalidad}{Nación}
+	\personaltableentry{Estado Civil}{Soltero}
+	\personaltableentry{Cédula de Identidad}{\ciautor}
+\end{personaltabledata}
+
+% EXPERIENCIA
+% cvblock toma un parámetro opcional para definir el estilo de línea divisoria:
+%	\begin{cvblock}[]{Experiencia}		Línea negra por defecto
+%	\begin{cvblock}[..]{Experiencia}	Línea punteada
+%	\begin{cvblock}[none]{Experiencia}	Sin línea
+\begin{cvblock}{Experiencia}
+	\begin{institution}[http://empresa.com]{Empresa A}{Ciudad 3, Región, País}
+		\institutionentry{Jefe de Obras}{Enero \apo 15}{\present}{\lipsum[66]}
+		\institutionentry{Ayudante de Oficina Técnica}{Junio \apo 14}{Diciembre \apo 14}{\lipsum[68]}
+	\end{institution}
+	
+	\begin{institution}{Empresa B}{Ciudad 2, Región 2, País 2}
+		\institutionentry{Ayudante de Ingeniería}{Febrero \apo 04}{Diciembre \apo 07}{}
+	\end{institution}
+
+	\begin{institution}{Empresa C}{Ciudad 1, Región 1, País 1}
+		\institutionentry{Ayudante de Oficina Técnica}{Marzo \apo 08}{Abril \apo 14}{\lipsum[75]}
+	\end{institution}
+\end{cvblock}
+
+% EDUCACIÓN
+\begin{cvblock}{Educación}
+	\begin{institution}[http://colegio.com]{Colegio}{Ciudad, Región, País}
+		\institutionentryshort{Enseñanza básica}{1984}{1990}{}
+		\institutionentryshort{Enseñanza media}{1991}{1994}{}
+	\end{institution}
+
+	\begin{institution}[]{Universidad}{Ciudad, Región, País}
+		\institutionentrynodate{Magíster en Ciencias}{\lipsum[130]}
+		\institutionentryshort{Ingeniería Civil}{1995}{2001}{\lipsum[66]}
+	\end{institution}
+\end{cvblock}
+
+% HABILIDADES
+\begin{cvblock}[]{Conocimientos \& Habilidades}
+	\otherentry{Uso de software:}{Excel, \LaTeX}
+	\otherentry{Idiomas:}{Español, Inglés}
+\end{cvblock}
+
+% FIRMA
+\begin{signature}
+	\signatureentry{\nombreautor}
+	\signatureentry{Ingeniero Civil}
+	\signatureentry{C.I. \ciautor}
+\end{signature}
+
+% FIN DEL DOCUMENTO
+\end{document}

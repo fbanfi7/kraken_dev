@@ -1,0 +1,10 @@
+V0.1
+
+Fecha: 18/11/2021
+
+Autor: Tomas Rodriguez
+
+Modificado por: Tomas Rodriguez
+
+La potencia del compresor debera ser tal como para disminuir la temperatura del fluido de trabajo a -30°C en 30 minutos o menos
+Gas refrigerante r-134a

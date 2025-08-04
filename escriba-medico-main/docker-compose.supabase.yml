@@ -1,0 +1,18 @@
+services:
+  supabase:
+    image: supabase/supabase:latest
+    ports:
+      - "54321:8000"
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_DB: postgres
+      SUPABASE_URL: http://localhost:54321
+      SUPABASE_ANON_KEY: demo-key
+      JWT_SECRET: demo-secret
+    command: >
+      bash -c "
+        supabase init &&
+        supabase start &&
+        supabase auth signup --email demo@gmail.com --password Qwerty123!
+      "

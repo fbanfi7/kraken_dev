@@ -1,0 +1,12 @@
+V0.2 
+18/11/2021
+
+Autor: Tomas Rodriguez
+
+Modificado por Tomas Rodriguez
+
+Requerimientos de entrada para esta version:
+
+
+
+Para esta nueva version, armaremos una bateria con intercambiadores y mediremos su eficiencia. Serpentina, placas, tubos intercambiadores, etc.

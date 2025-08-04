@@ -1,0 +1,4783 @@
+= Bussiness Plan
+Tomas Rodriguez <tomasrodriguez95@hotmail.com.ar>
+
+Javier Ruiz traga leche <javier.ruiz000@>
+
+Version 1.0, 29.09.2020
+
+Prueba de BP
+
+= BIBILONI BIGOTE DE LECHE
+
+____
+*Guía para empresarios PyMEs para elaborar un Plan de Negocios*
+
+Guía para empresarios PyMEs para elaborar un Plan de Negocios
+____
+
+*_3_*
+
+____
+*GUIA PARA ELABORAR SU PLAN DE NEGOCIOS*
+
+*INDICE*
+____
+
+Comentarios y Reflexiones 7 kjkjkjjkjkjkkj
+
+Introducci├│n 11
+
+C├│mo utilizar esta gu├¡a 13
+
+Gu├¡a para la preparaci├│n del Plan de Negocios 15
+
+Resumen ejecutivo 17
+
+
+[arabic]
+. Descripci├│n del negocio 19
+. Productos y servicios 21
+. Descripci├│n del sector 25
+. Estrategia de comercializaci├│n 27
+. Gesti├│n y personal 29
+. Protecci├│n y normativas 31
+. Plan de puesta en marcha 33
+. Riesgos 35
+. Informaci├│n econ├│mica -financiera 37
+
+Balance de Inicio 39
+
+Flujo de Fondos 41
+
+Base de Datos del Flujo de Fondos I 43
+
+Base de Datos del Flujo de Fondos II 45
+
+Balance proyectado 47
+
+Cuadro de resultados proyectado 49
+
+Bases del presupuesto 51
+
+[arabic, start=10]
+. {blank}
++
+____
+Informaci├│n adicional 53
+____
+
+____
+Bibliograf├¡a 55
+____
+
+*_5_*
+
+____
+*COMENTARIOS Y REFLEXIONES*
+
+Una de las inquietudes formuladas por los peque├▒os y medianos empresario
+es que, al evaluar una solicitud de cr├®dito, los funcionarios bancarios
+s├│lo miran la ÔÇ£historiaÔÇØ y las garant├¡as de la firma, y no tienen en
+cuenta sus planes, su ÔÇ£futuroÔÇØ.
+
+Desde el lado de los funcionarios del banco, se reclama que los
+empresarios, en general, se acercan a la entidad a solicitar un cr├®dito
+s├│lo con una ÔÇ£ideaÔÇØ, no con un plan que permita saber cu├íles son los
+proyectos, en qu├® se basa la informaci├│n econ├│mica financiera que se
+presenta, y que muestre un cierto grado de seguridad de ├®xito del
+negocio.
+
+Lo que dar├¡a satisfacci├│n a ambas partes es la presentaci├│n de un *Plan
+de*
+
+*Negocios.*
+
+La relaci├│n entre los bancos y las PyMEs tiene algunos aspectos cr├¡ticos
+que pasan por las diferencias l├│gicas en los tiempos, los tr├ímites, las
+exigencias y las urgencias, para mencionar s├│lo algunos de los
+problemas.
+
+Las PyMEs piensan que el banco est├í poco familiarizado con la situaci├│n
+real de la empresa y que utiliza criterios incorrectos de an├ílisis de
+sus requerimientos, mientras que la entidad financiera considera que las
+peque├▒as y medianas empresas no entienden que hay disposiciones, que son
+las que originan los problemas en las solicitudes.
+
+Cuando el empresario proyecta un producto nuevo, necesita m├íquinas,
+equipos y capital de trabajo; cuando se propone expandir sus ventas
+requiere fondos adicionales; o puede demandar capital para reestructurar
+la empresa y mejorar su competitividad. En todos estos casos, necesita
+recurrir a una instituci├│n financiera.
+
+Como empresario, conoce a fondo su negocio, sabe lo que quiere y c├│mo
+lograrlo. El problema es c├│mo hacer para transmitir su proyecto a
+funcionarios de esa instituci├│n financiera que tienen otros
+conocimientos y vivencias y deben atender a muchos clientes diferentes.
+La forma de hacerlo es mediante una presentaci├│n, confeccionada con
+ciertas reglas, para que toda esa informaci├│n pueda ser captada por el
+funcionario que lo atiende y as├¡ lograr que el Banco entienda la
+viabilidad de su negocio.
+
+Esto es un *Plan de Negocios*. Este instrumento le suministra al Banco
+los datos que necesita para poder asumir la parte del riesgo que el
+empresario le propone cuando solicita financiaci├│n. Es la mejor manera
+para que el banco pueda conocer el negocio que desarrolla la empresa y
+las bases con que eval├║a sus proyecciones futuras.
+
+Para colaborar con las PyMEs en esa tarea, hemos elaborado una Gu├¡a para
+la preparaci├│n del Plan de Negocios, al tiempo que le ofrecemos a los
+peque├▒os y medianos empresarios la colaboraci├│n de los funcionarios del
+Banco, de los Centros de Negocios y del Instituto PyMEs ÔÇ£Carlos
+PellegriniÔÇØ.
+
+El banco, como entidad comercial, necesita que el empresario le
+explique, de la mejor forma posible, que su negocio ser├í exitoso y, de
+esa manera, pueda tener capacidad de repago. Para evaluar la solicitud
+de cr├®dito, la entidad financiera se basa en tres elementos:
+____
+
+[arabic]
+. {blank}
++
+____
+La historia de la empresa, tanto desde el punto de vista econ├│mico como
+financiero y fiscal, as├¡ como sus antecedentes personales.
+____
+. {blank}
++
+____
+La situaci├│n en el momento en que se solicita la asistencia crediticia
+(activo, pasivo, patrimonio y garant├¡as disponibles).
+____
+. {blank}
++
+____
+El futuro de la firma: cu├íles son sus proyectos, c├│mo se aplicar├ín los
+fondos que est├í requiriendo; o sea, el Plan de Negocios.
+____
+
+____
+El *Plan de Negocios* es siempre una herramienta ├║til, porque mientras
+el
+____
+
+*_7_* asdv
+
+____
+empresario lo elabora y lo revisa se puede dar cuenta de riesgos,
+oportunidades, prueba estimaciones diferentes; percibe las necesidades
+financieras y las vincula con los par├ímetros proyectados del negocio.
+
+El *Plan de Negocios* le permite, por otra parte, repensar su
+emprendimiento con una metodolog├¡a que lo aparte de los problemas del
+corto plazo y analizar con sus socios y colaboradores las perspectivas
+de la empresa.
+
+Estamos convencidos que este es un instrumento ├║til tanto para las PyMEs
+como para el banco, como lo demuestra su creciente utilizaci├│n en la
+mayor├¡a de los pa├¡ses.
+
+En el proceso de acompa├▒ar a las PyMEs para superar las dificultades y
+hacer negocios, hay muchas cosas que podemos realizar juntos.
+
+*_8_*
+
+*INTRODUCCI├ôN*
+
+Cuando alguien proyecta incorporar un producto nuevo y requiere
+m├íquinas, equipos, capital de trabajo; o va a expandir sus ventas con
+las instalaciones actuales, necesita incorporar fondos frescos; o va a
+reestructurar su empresa para mejorar su competitividad y requiere
+capital, entonces recurre a una instituci├│n financiera.
+
+Usted vive su empresa a diario. Por lo tanto, nadie conoce mejor que Ud.
+la realidad de su negocio. Pero, para los funcionarios del Banco que
+atienden simult├íneamente a una gran cantidad de clientes, les resulta
+imposible tener los mismos conocimientos y vivencias.
+
+Es por esta raz├│n que es necesario que el Plan de Negocios que est├í
+presentando al Banco tenga la informaci├│n lo m├ís clara posible. De esta
+forma, la entidad financiera puede comprender las razones por las cuales
+puede confiar en el ├®xito de su negocio.
+
+Sin dudas, el sentido com├║n y el ÔÇ£olfatoÔÇØ empresario tiene un gran
+valor; ya que es el que le ha permitido lograr la situaci├│n que ha
+alcanzado. Pero Ud. no est├í corriendo el riesgo solo, sino que est├í
+solicitando apoyo financiero y, por lo tanto, el banco tambi├®n est├í
+asumiendo parte del riesgo. Entonces, es necesario mostrar, con la mayor
+claridad posible, que se analizaron los distintos par├ímetros que hacen
+al desarrollo del negocio como ser alternativas de productos, ventas,
+costos, calidades, distribuci├│n, precios y la reacci├│n de la
+competencia, entre otros. Incluso, cu├íles son las posibles dificultades
+esperadas y c├│mo las enfrentar├í.
+
+La conveniencia de contar con un Plan de Negocios es primero para uno
+mismo, ya que se puede demostrar en el papel la posibilidad de realizar
+el emprendimiento y es la base para convencer a los dem├ís participantes,
+entre ellos, a la instituci├│n financiera.
+
+Cuando la entidad financiera le solicita informaci├│n, a usted le puede
+parecer que es demasiada. Piense que dicha informaci├│n es necesaria para
+aquellos que, junto con usted, toman el riesgo del negocio: una
+instituci├│n financiera, un proveedor o un inversor.
+
+Adjuntamos una Gu├¡a para la elaboraci├│n de su Plan de Negocios para
+ayudarlo en esa tarea. Adem├ís, le ofrecemos la colaboraci├│n de los
+funcionarios del Banco, de los Centros de Negocios y del Instituto PyMEs
+ÔÇ£Carlos PellegriniÔÇØ.
+
+*El Banco, facilitador de su negocio*
+
+Como se se├▒al├│ antes, el Banco, como entidad comercial, necesita que Ud.
+le muestre, de la mejor forma posible, que su negocio ser├í exitoso y, de
+esa manera, pueda tener capacidad de repago. Por esta raz├│n es que, para
+evaluar su solicitud de cr├®dito, la entidad financiera se basa en tres
+elementos:
+____
+
+[arabic]
+. {blank}
++
+____
+La historia de su empresa, tanto desde el punto de vista econ├│mico como
+financiero y fiscal, as├¡ como sus antecedentes personales.
+____
+. {blank}
++
+____
+La situaci├│n de su empresa en el momento en que solicita la asistencia
+crediticia (activo, pasivo, patrimonio y garant├¡as disponibles).
+____
+. {blank}
++
+____
+El futuro de la firma: cu├íles son sus proyectos, c├│mo se aplicar├ín los
+fondos que est├í requiriendo; en s├¡ntesis, el Plan de Negocios.
+____
+
+*_9_*
+
+____
+*┬┐Qu├® es un Plan de Negocios?*
+
+Un Plan de Negocios es, en s├¡ntesis, una simple informaci├│n escrita, con
+palabras y n├║meros, acerca de qui├®n es el due├▒o o los socios de la
+empresa, qu├® desea hacer y qu├® necesita para lograrlo, ya sea que se
+trate de su actual empresa o para un nuevo emprendimiento.
+
+Es un resumen detallado sobre su empresa, los productos y servicios que
+suministra, las operaciones comerciales que desarrolla, cu├íles son sus
+planes futuros, y el financiamiento con que cuenta y el que est├í
+requiriendo para su evoluci├│n empresaria.
+
+Un Plan de Negocios es un documento que describe el desarrollo futuro de
+un emprendimiento, y que muestra que el mismo es factible.
+
+Un Plan de Negocios contiene,
+____
+
+* {blank}
++
+____
+una breve memoria de su empresa
+____
+* {blank}
++
+____
+qui├®n/qui├®nes llevar├ín adelante el proyecto,
+____
+* {blank}
++
+____
+el concepto del proyecto o de la empresa,
+____
+* {blank}
++
+____
+sus objetivos,
+____
+* {blank}
++
+____
+los recursos financieros y humanos que requerir├í el negocio,
+____
+* {blank}
++
+____
+c├│mo ser├ín obtenidos esos recursos,
+____
+* {blank}
++
+____
+por qu├® la empresa tendr├í ├®xito, y
+____
+* {blank}
++
+____
+en qu├® tiempo y c├│mo piensa que puede repagar los fondos que solicita.
+____
+
+____
+*┬┐Para qu├® sirve el Plan de Negocios?*
+
+Sin dudas, el Plan de Negocios es su documento de referencia b├ísico que
+le servir├í a usted mismo para situarse, conocer su negocio en detalle,
+sus antecedentes, su estrategia y sus metas, que le ser├í de gran
+utilidad para darlo a conocer al banco (tambi├®n ser├í ├║til para brindarle
+confianza), a sus proveedores (si le interesa buscarlos), o potenciales
+socios o inversores.
+
+El Plan de Negocios es la tarjeta de presentaci├│n de su empresa y de sus
+planes.
+
+*┬┐Qu├® incluye un Plan de Negocios?*
+
+El Plan de Negocios puede adoptar diversas formas y tama├▒os. Algunos
+cap├¡tulos, que son comunes a la mayor├¡a de los Planes, incluyen:
+____
+
+* {blank}
++
+____
+un resumen de los principales aspectos del Plan en un par de p├íginas;
+____
+* {blank}
++
+____
+una informaci├│n que permite entender el negocio;
+____
+* {blank}
++
+____
+una descripci├│n de los productos y de los servicios que ofrece;
+____
+* {blank}
++
+____
+una descripci├│n del sector en el cual el negocio compite o competir├í;
+____
+* {blank}
++
+____
+una estrategia de mercado que contempla los productos y servicios, su
+promoci├│n, precios y la distribuci├│n;
+____
+* {blank}
++
+____
+una descripci├│n de los Recursos Humanos: direcci├│n, gerencia y personal;
+____
+* {blank}
++
+____
+un plan financiero que incluye los balances pro-forma, las declaraciones
+de impuestos y el flujo de fondos.
+____
+
+____
+Un Plan de Negocios es un documento que contiene informaci├│n resumida,
+que usted puede ampliar cuando lo crea conveniente o cuando le sea
+solicitado.
+
+*┬┐Por qu├® es importante tener un Plan de Negocios?*
+
+Algunos de los beneficios que se obtienen preparando un Plan de Negocios
+son:
+____
+
+* {blank}
++
+____
+El mismo proceso de su preparaci├│n le permite repensar su empresa e
+investigar algunas opciones.
+____
+* {blank}
++
+____
+Reconocer oportunidades y riesgos, y probar algunas de las estimaciones.
+____
+* {blank}
++
+____
+Tambi├®n le permitir├í identificar las necesidades financieras de su
+negocio.
+____
+* {blank}
++
+____
+Bajo ciertas circunstancias, se puede utilizar tambi├®n para negociar
+cr├®ditos
+____
+
+*_11_*
+
+____
+de proveedores.
+____
+
+* {blank}
++
+____
+Ser├í de gran utilidad para informar a empleados, a socios y a otros
+sobre sus planes y estrategias, si as├¡ lo desea.
+____
+* {blank}
++
+____
+Proporciona un punto de partida que le permitir├í comparar el
+funcionamiento de su empresa.
+____
+
+____
+Conviene revisar siempre el ├║ltimo Plan de Negocios elaborado y no
+solamente cuando se inicia un nuevo emprendimiento, o cuando est├í
+ocurriendo un cambio importante en su negocio o, lo que sucede con mayor
+frecuencia, cuando la empresa requiere un pr├®stamo o una inversi├│n
+adicional. De este modo, podr├ín realizar, si fuera necesario, las
+modificaciones correspondientes con respecto al Plan anterior.
+
+*Algunos lineamientos para preparar un buen Plan de Negocios son:*
+____
+
+[arabic]
+. {blank}
++
+____
+*Definir los objetivos.*
+____
+
+____
+A qui├®nes se les presentar├í el plan y qu├® efecto quisiera usted que
+produzca. Los objetivos pueden ayudarle a decidir con cu├ínto ├®nfasis
+encarar los diferentes aspectos del Plan de Negocios.
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Destinar suficiente tiempo y recursos para investigar a conciencia su
+Plan.* L a calidad de un Plan de Negocios est├í en relaci├│n directa con
+los esfuerzos que realiz├│ para elaborarlo. Por ejemplo, ser├í necesario
+investigar para descubrir m├ís sobre su empresa, sus clientes
+potenciales, sus competidores, sus ventas y costos estimados.
+____
+. {blank}
++
+____
+*Es conveniente mostrar el borrador de su plan de negocio a otros.*
+____
+
+____
+Puede ser muy ├║til conseguir una retroalimentaci├│n sobre el borrador de
+su plan a varias personas de confianza. Uno vive su empresa o negocio en
+un cierto microclima que le impide ver los errores en la informaci├│n.
+____
+
+[arabic, start=4]
+. {blank}
++
+____
+*Escribir el Plan de Negocios.*
+____
+
+____
+Las explicaciones que se brinda en las diferentes partes del plan deben
+reflejar no s├│lo que conoce bien su negocio, sino tambi├®n la importancia
+del mismo, y esto s├│lo lo puede hacer usted. Un buen plan debe poder ser
+le├¡do como una buena historia, integrada por sus diferentes partes, que
+expone las bases del ├®xito del negocio.
+____
+
+[arabic, start=5]
+. {blank}
++
+____
+*Destaque los puntos importantes que desee considerar en cada secci├│n
+antes de comenzar a escribir el plan.*
+____
+
+____
+Comience a revisar su esquema de trabajo para asegurarse que las
+diferentes partes son consistentes entre s├¡, y que se han incluido todas
+las cuestiones claves.
+____
+
+[arabic, start=6]
+. {blank}
++
+____
+*Aseg├║rese de que sus proyecciones financieras sean lo m├ís objetivas y
+prudentes posibles.*
+____
+
+____
+Para muchos de los que lean el plan, la secci├│n financiera es la m├ís
+importante porque identifica sus necesidades de financiamiento y muestra
+el potencial de su negocio. Adem├ís, un buen proyecto financiero mostrar├í
+que usted realmente entiende su negocio al probar el car├ícter razonable
+de cada una de sus estimaciones: las demasiado optimistas pueden
+restarle credibilidad a su plan. Siempre existe un riesgo en todo
+emprendimiento en el que influyen una gran cantidad de variables, tales
+como las ventajas frente a la competencia, la verosimilitud en los
+plazos de cobranza previstos, la posibilidad de cumplir con los
+vol├║menes proyectados, etc. Todos estos elementos deben ser explicados
+claramente para que puedan ser entendidos por los lectores a los que
+est├í dirigido el plan .
+____
+
+[arabic, start=7]
+. {blank}
++
+____
+*Prepare el Resumen Ejecutivo.*
+____
+
+____
+El Resumen Ejecutivo puede ser la secci├│n m├ís importante de su plan; es
+lo que se leer├í primero y, seguramente, con m├ís atenci├│n. La clave de un
+buen resumen es su brevedad (no m├ís de 2 p├íginas), en el cual debe
+destacar la importancia de su plan, y conseguir que lo que manifieste
+sobre su empresa atraiga la atenci├│n de quien lo lea.
+
+*C├ôMO UTILIZAR ESTA GU├ìA*
+
+*_12_*
+
+A continuaci├│n, encontrar├í una Gu├¡a para elaborar un Plan de Negocios
+para PyMEs ÔÇôtanto existentes como para nuevos emprendimientos-, que
+contiene preguntas relacionadas con su negocio, incluyendo un ejemplo
+hipot├®tico que podr├í servirle como orientaci├│n para preparar su propio
+plan.
+
+Aunque el ejemplo se refiere a una actividad industrial, resulta ├║til,
+con las modificaciones del caso, para elaborar los correspondientes a
+otras ramas manufactureras y a otros sectores, como el de comercio y el
+de servicios.
+
+Si Ud. decide completar el Plan de Negocios para acceder a alg├║n tipo de
+financiamiento del Banco de la Naci├│n Argentina, ac├®rquese a la sucursal
+que le corresponde, donde le entregar├ín la informaci├│n para hacerlo.
+Tambi├®n podr├í consultar al Instituto PyMEs ÔÇ£Carlos PellegriniÔÇØ del Banco
+Naci├│n: por correo electr├│nico a _gpruzan@bna.com.ar_ o a
+mailto:aguilis@bna.com.ar[_aguilis@bna.com.ar_,] o telef├│nicamente al
+(011) 4347-6310/6320.
+
+No escapa a nuestro criterio que las diferentes realidades de las PyMEs
+hacen que el desarrollo de un plan de este tipo, en un tiempo acorde con
+el mundo de los negocios, culmine con distintos grados de avance en su
+elaboraci├│n. En algunos casos, seguramente deber├ín solicitar
+colaboraci├│n, la que puede provenir de profesionales, de las c├ímaras
+empresarias o de municipios que cuentan con equipos t├®cnicos destinados
+al efecto. Se ha verificado que, cuanto mayor es la coordinaci├│n de esos
+recursos locales, m├ís eficaz ser├í la acci├│n para facilitar la
+preparaci├│n de este plan a los peque├▒os y medianos empresarios.
+
+Cuando el Plan est├® esbozado, le sugerimos que vuelva a tomar contacto
+con los funcionarios locales del Banco de la Naci├│n, para considerar el
+mismo.
+
+*RESUMEN EJECUTIVO*
+
+_Esta parte de su Plan de Negocios, que s├│lo puede ser preparada cuando
+finalice la elaboraci├│n del mismo, debe ser colocada al principio del
+documento; es decir, antes de la descripci├│n del Plan de Negocios, e
+inmediatamente despu├®s de la car├ítula._
+
+_Ello se debe a que este Resumen, con una extensi├│n no mayor a las 2
+p├íginas tiene como prop├│sito atraer la atenci├│n del lector, mediante una
+s├¡ntesis descriptiva, en la que usted destaca lo que considera
+importante para conseguir ese objetivo._
+
+_El sumario ejecutivo debe contener:_
+____
+
+* {blank}
++
+____
+_La descripci├│n de la empresa o proyecto y la proyecci├│n de sus
+productos y servicios._
+____
+* {blank}
++
+____
+_La estructura organizativa, los propietarios y la gerencia de la
+empresa._
+____
+* {blank}
++
+____
+_Sus principales iniciativas y objetivos._
+____
+* {blank}
++
+____
+_Las oportunidades de mercado._
+____
+* {blank}
++
+____
+_Las principales ventajas competitivas._
+____
+* {blank}
++
+____
+_Los componentes de su estrategia de comercializaci├│n._
+____
+* {blank}
++
+____
+_Las principales proyecciones econ├│micas y financieras._
+____
+
+____
+*Ejemplo:*
+
+Past SRL es una compa├▒├¡a dedicada a la fabricaci├│n y venta de pastas
+secas en la
+
+Ciudad de Buenos Aires y recientemente ha iniciado la comercializaci├│n
+en otras ciudades del pa├¡s.
+
+La empresa, que tuvo su origen en una sociedad de hecho, fue creada en
+1991 y desde entonces fue creciendo en actividad y desarrollo
+empresarial. Ahora, proyecta extender su negocio en todo el pa├¡s y, en
+una segunda fase, al Mercosur.
+
+Para ello, ha estudiado el mercado argentino, y ha incorporado un socio
+con amplia experiencia, prestigio y contactos en el interior del pa├¡s y
+en Brasil, y ya ha efectuado las primeras operaciones en el interior del
+pa├¡s con resultados satisfactorios.
+
+Para atender la demanda proyectada, resultante de estudios de mercado
+realizados, prev├® la adquisici├│n de un equipo industrial fabricado en el
+pa├¡s con moderna tecnolog├¡a italiana, que le permitir├í dar un salto en
+producci├│n y eficiencia.
+
+Las principales ventajas competitivas de la empresa son:
+____
+
+* {blank}
++
+____
+trabajar con ÔÇ£commoditiesÔÇØ que se producen en el pa├¡s a precios
+internacionales
+____
+* {blank}
++
+____
+un sistema de comercializaci├│n y red de clientes en la Ciudad de Buenos
+Aires y parte del Gran Buenos Aires
+____
+* {blank}
++
+____
+Contar con personal calificado y amplia experiencia.
+____
+* {blank}
++
+____
+Localizaci├│n pr├│xima a centros productores de abastecimiento de materias
+primas y a v├¡as de transporte polimodal
+____
+* {blank}
++
+____
+Trayectoria y marcas instaladas en la Ciudad de Buenos Aires.
+____
+
+____
+El salto que pretende dar nuestra empresa es alcanzar el mercado
+nacional, m├ís all├í del ├írea geogr├ífica de su desempe├▒o actual. Este
+mercado presenta un significativo crecimiento en los ├║ltimos a├▒os, en el
+segmento de las pastas consumidas por la poblaci├│n de mayores recursos.
+Este sector se abastece actualmente, en gran medida, con productos
+importados.
+
+La estrategia de comercializaci├│n fue incorporar un socio con
+experiencia, prestigio y amplia trayectoria en el mercado objetivo, para
+facilitar el ingreso de nuestro producto, en el convencimiento de que su
+calidad, precio y servicio al cliente se convertir├ín luego en los
+factores de ├®xito de nuestra actividad.
+
+A la fecha tenemos una excelente oportunidad de ampliar nuestros
+negocios. Los principales datos de proyecciones de producci├│n,
+econ├│micas y financieras son: Fecha prevista de puesta en marcha: 1┬░ de
+enero de 2002
+
+Inversi├│n neta: $ 600.000
+
+Necesidad de financiamiento: $480.000
+____
+
+*_17_*
+
+____
+Objetivo: compra de equipo nacional
+
+Producci├│n prevista: 1 460 000Kg./a├▒o de pastas secas, en el primer a├▒o
+Relaci├│n con el consumo total: cuando alcance la producci├│n m├íxima
+programada, la empresa abastecer├í el 1,5% del mercado, a partir del 4to
+a├▒o. Valor Actual Neto (tasa descuento 12%): $230.720,26
+
+Tasa interna de retorno: superior al 30%
+
+Punto de equilibrio de la producci├│n: 1.350.000 kg. anuales.
+
+*1.-DESCRIPCI├ôN DEL NEGOCIO*
+____
+
+[arabic]
+. {blank}
++
+____
+*Historia del negocio*
+____
+
+____
+_Quienes lean su Plan de Negocios, primero desear├ín conocer la historia
+de su empresa. Si la firma ya existe, describa cu├índo y por qui├®n fue
+iniciada y los cambios m├ís importantes que hayan ocurrido durante su
+trayectoria. Si se trata de un nuevo emprendimiento, se├▒ale algunas de
+las razones por las que usted quiere iniciar el mismo._
+
+Past SRL. fue creada en el a├▒o 1991 con el fin de darle marco jur├¡dico
+adecuado a la labor conjunta que ven├¡an realizando sus socios, RR y AA ,
+desde hace m├ís de 20 a├▒os en el mercado de las pastas secas.
+Inicialmente, cont├│ con las instalaciones en que funcionaba la anterior
+sociedad (de hecho), y sus clientes fueron creciendo a medida que se
+difundieron las bondades de los productos, as├¡ como la responsabilidad
+en el cumplimiento de los compromisos asumidos.
+
+En el a├▒o 2000, se incorpor├│ un nuevo socio ÔÇôBR- quien realiz├│ un aporte
+de capital, contactos y una amplia trayectoria en el negocio en el
+interior del pa├¡s y en Brasil que nos permiti├│ conocer en detalle el
+desenvolvimiento de esta actividad en este mercado .
+
+Informaci├│n sobre los socios se encuentran en el punto 5.2
+____
+
+El v├¡nculo entre los integrantes del equipo de emprendedores surgi├│
+dentro de la carrera de Bioingenier├¡a, al formar grupo para realizar un
+trabajo final de la materia Fisiolog├¡a y Biof├¡sica sobre el dolor y su
+cuantificaci├│n en patolog├¡as nerviosas.
+
+En el transcurso del tiempo hasta la actualidad fuimos planteando ideas
+sobre proyectos para innovar y mejorar la calidad del sistema de salud
+nacional.
+
+[arabic, start=2]
+. {blank}
++
+____
+*Objetivo general y formas de alcanzarlo:*
+____
+
+____
+_Es importante tener una visi├│n a largo plazo de lo que usted desea de
+su empresa. En algunos casos, conviene hacer referencia a las
+estrategias y filosof├¡as de negocio o para mostrar los esfuerzos que su
+empresa dedica para desarrollar buenas relaciones con los clientes y con
+su personal._
+
+El objetivo de la empresa fue y es
+____
+
+* {blank}
++
+____
+mejorar continuamente la calidad y la eficiencia de producci├│n a fin de
+lograr un producto competitivo y expandir los negocios,
+____
+* {blank}
++
+____
+incrementar el nivel de producci├│n y lograr econom├¡as de escala, a fin
+de disminuir costos,
+____
+* {blank}
++
+____
+mantener y mejorar el servicio al cliente nos permite no solo
+incrementar los negocios sino afianzar la imagen de la empresa y la
+marca de sus productos.
+____
+
+* {blank}
++
+____
+Mitigar el estigma social de la alopecia inducida por quimioterapia en
+pacientes con c├íncer
+____
+* {blank}
++
+____
+Dise├▒ar, producir y comercializar un equipo de enfriamiento capilar
+computarizado seguro y eficaz
+____
+* {blank}
++
+____
+Promover un espacio de trabajo interdisciplinario basado en el respeto,
+la comunicaci├│n y la confianza entre pares que responda a las
+necesidades de los clientes de forma ├ígil y vers├ítil
+____
+* {blank}
++
+____
+Ser l├¡deres a nivel mundial en la directriz de productos m├®dicos
+centrados en la interrelaci├│n mente cuerpo del paciente.
+____
+* {blank}
++
+____
+Desarrollar estrategias comerciales para regionalizar nuestro producto y
+proyectar la internacionalizaci├│n del mismo
+____
+
+* {blank}
++
+____
+Revolucionar la industria de tecnolog├¡a m├®dica en el ├írea de oncolog├¡a
+al proveer una mejora en los tratamientos de quimioterapia.
+____
+
+Salud mental del paciente
+
+Aportar soluciones desde la ingenier├¡a biom├®dica para los pacientes con
+c├íncer en tratamiento de quimioterapia.
+
+objetivos como queremos que nos vean
+
+integrar nuestra tecnolog├¡a innovadora de control y conocimiento en el
+├írea, con la tecnolog├¡a de enfriamiento capilar existente para mejorar
+su eficacia y la eficacia de los tratamientos oncol├│gicos .
+
+Nuestra misi├│n es lograr que la tecnolog├¡a m├®dica sea accesible en los
+distintos centros de salud en Argentina ya que consideramos que todas
+las personas tienen derecho al mejor tratamiento m├®dico posible.
+
+mejorar una soluci├│n existente tecnol├│gicamente
+
+*"Verte bien te ayuda a sanar"*
+
+objetivos c├│mo nos vemos a nosotros
+
+objetivos cu├ínta plata vamos a ganar
+
+* Impactar en la vida de los pacientes con c├íncer
+* Minimizar la alopecia en pacientes con quimioterapia.
+* Mejorar la calidad de vida del paciente durante el tratamiento
+* Brindar una terapia asistiva accesible a pacientes oncol├│gicos
+* Facilitar el acceso a esta tecnolog├¡a en centros oncol├│gicos
+entrerrianos
+* Fomentar el respeto y la solidaridad entre nuestros equipos, creando
+as├¡ un clima de trabajo ├│ptimo
+* Dar capacitaci├│n permanente al personal que interviene en los procesos
+que hacen nuestro producto final, y brindarles todos los elementos de
+seguridad necesarios para desempe├▒ar estos procesos.
+* Brindarles a nuestros clientes la tranquilidad de que nuestros
+productos realmente cumplen y satisfacen sus necesidades de manera
+├│ptima y eficaz.
+
+Somos una empresa enfocada en el desarrollo, fabricaci├│n y mejora
+continua de equipos de enfriamiento para el cuero cabelludo, destinados
+a prevenir la ca├¡da del cabello como consecuencia la quimioterapia.
+
+Asumimos el compromiso de
+
+Con el fin de que cada uno de los integrantes del equipo de trabajo de
+KRAKEN, como as├¡ tambi├®n cada uno de nuestros clientes sepan
+detalladamente c├│mo la empresa desarrolla cada uno de sus productos
+desde su etapa inicial de dise├▒o y prototipado, y durante todo el ciclo
+de vida de los mismos, elaboramos un sistema de gesti├│n de la calidad
+siguiendo firmemente los lineamientos vigentes para cumplir con los
+requisitos de nuestros clientes. Adem├ís, la direcci├│n de KRAKEN asegura
+realizar un seguimiento permanente con el fin de evaluar el cumplimiento
+y la efectividad de dicho sistema, tomando las medidas necesarias ante
+la detecci├│n de cualquier tipo de irregularidad.
+
+[arabic]
+. {blank}
++
+____
+*Objetivos*
+____
+
+____
+_Es importante fijar los objetivos que se propone, para que pueda
+verificar si su negocio se est├í desarrollando en orden a estos objetivos
+en el corto plazo. Usted puede fijar los objetivos relacionados con:_
+____
+
+* {blank}
++
+____
+_ocupar una posici├│n deseada del mercado (por ejemplo: deseo abastecer
+el 60% de los negocios mayoristas de la zona)_
+____
+* {blank}
++
+____
+_las ventas (por ejemplo: proyecto un incremento de ventas del 20% para
+el pr├│ximo a├▒o),_
+____
+* {blank}
++
+____
+_un incremento de las utilidades por disminuci├│n de costos (por ejemplo:
+un 10% con respecto al ejercicio anterior),_
+____
+* {blank}
++
+____
+_o cualquier otro objetivo que sea importante para su negocio. Sus
+objetivos deben ser efectivos, simples, y mensurables._
+____
+
+____
+Los objetivos de la empresa, con las vicisitudes propias de las
+situaciones econ├│micas vividas, se han ido cumpliendo desde su creaci├│n.
+B├ísicamente, hemos incrementado un 30% promedio acumulado anual nuestras
+ventas desde el a├▒o 1991 a la fecha, logrando penetraci├│n en los
+principales centros de consumo de la Ciudad Buenos Aires y parte de Gran
+Buenos Aires.
+
+Del mismo modo, nuestros clientes han ido increment├índose m├ís que
+proporcionalmente, lo que en varias oportunidades nos ha llevado a
+replantear nuestro m├®todo de distribuci├│n a fin de hacerlo m├ís eficiente
+para todas las partes involucradas.
+
+Entendemos que, frente a la actual situaci├│n recesiva, se hace
+indispensable
+____
+
+*_19_*
+
+____
+adoptar nuevas estrategias a fin de continuar logrando los objetivos
+fijados.
+
+Nuestro objetivo para los pr├│ximos tres a├▒os es incrementar nuestras
+ventas en un 25% promedio anual.
+
+*1.4 Localizaci├│n y recursos*
+
+_Describa d├│nde se localiza su empresa y qu├® facilidades dispone. Usted
+puede incluir una descripci├│n del lugar, del tipo y magnitud de las
+instalaciones que posee, de su equipo, y si es propietario de los
+inmuebles. Adem├ís, explique cu├íles son las ventajas -si las hubiera- y/o
+de qu├® forma la localizaci├│n contribuye al ├®xito de su negocio._
+
+La empresa se localiza en la Avda. Saenz N┬║ XX del barrio de Pompeya, de
+la Ciudad de Buenos Aires.
+
+El equipo emprendedor desarrolla sus actividades en el espacio de
+co-working perteneciente a la FIUNER.
+
+Originalmente, en 1991, el emprendimiento estaba situado en la localidad
+de San Antonio de Padua, Provincia de Buenos Aires. El mayor nivel de
+actividad promovi├│ la necesidad de efectuar an├ílisis de las bondades de
+la localizaci├│n, lo que origin├│ que la empresa se mudara a su actual
+emplazamiento. B├ísicamente, los factores que incidieron en la
+localizaci├│n son: lugar de f├ícil acceso, cercano a molinos harineros, y
+a v├¡as de distribuci├│n nacionales e internacionales.
+
+*_20_*
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*PRODUCTOS Y SERVICIOS*
+____
+[arabic]
+.. {blank}
++
+____
+*Descripci├│n de productos y/o servicios*
+____
+
+____
+_Describa brevemente los productos y/o los servicios que su empresa
+vende o_
+
+_vender├í._
+
+Los productos que la empresa actualmente vende son fideos de tipo
+soperos, guiseros, largos y largos con huevo marca XXX., especialmente
+en envases de 500 grs., de calidad intermedia y primera.
+
+La marca m├ís conocida es ÔÇ£SolesÔÇØ que identifica nuestros fideos tipo
+spaghetti, y que actualmente se puede adquirir en todos los negocios de
+ventas de comestibles de las localidades donde desarrollamos nuestra
+actividad.|
+
+Actualmente fabricamos y vendemos dos calidades:
+____
+
+[arabic]
+. {blank}
++
+____
+La calidad intermedia se elabora con mezclas de s├®mola de trigo candeal
+y harinas de trigo en distintas proporciones y con harinas de calidad
+variable.
+____
+. {blank}
++
+____
+La primera calidad se elabora s├│lo con s├®mola de trigo candeal o s├®mola
+de trigo con agregado de huevo.
+____
+
+____
+La incorporaci├│n del nuevo equipo permitir├í la fabricaci├│n de productos
+de calidad primera en condiciones de competir en precios con productos
+importados y con los de calidad intermedia.
+____
+
+Servicios:
+
+* {blank}
++
+____
+Alquiler
+____
+* {blank}
++
+____
+Postventa
+____
+* {blank}
++
+____
+Capacitaci├│n
+____
+** {blank}
++
+____
+aumento de la eficacia del tratamiento
+____
+** {blank}
++
+____
+minimizar gastos de postventa
+____
+** {blank}
++
+____
+recopilacion de informacion de las necesitadas de los clientes (como )
+____
+** {blank}
++
+____
+correcto uso del equipo
+____
+
+Producto:
+
+* {blank}
++
+____
+KRAKEN
+____
+
+El refrigerador de cuero cabelludo es una unidad de refrigeraci├│n
+controlada por software compacta y m├│vil que circula un fluido
+refrigerante a baja presi├│n, a trav├®s de un casco especial que se coloca
+en la cabeza del paciente. La circulaci├│n del refrigerante a trav├®s del
+casco extrae el calor del cuero cabelludo del paciente y lo mantiene en
+el nivel ├│ptimo de temperatura para generar una apropiada
+vasoconstricci├│n y proteger los fol├¡culos pilosos.
+
+[arabic]
+. {blank}
++
+____
+*Caracter├¡sticas destacables de sus productos y/o servicios*
+____
+
+____
+_┬┐Por qu├® los clientes comprar├ín sus productos o servicios en lugar de
+hacerlo a otra empresa? Explique cu├íles son las razones que hacen que
+sus productos o servicios sean los elegidos en el mercado y de qu├®
+manera se diferencian de los de sus competidores._
+
+Aca lo comparas con el producto sustituto y con la competencia directa
+
+precio
+
+estamos aqui
+
+Nuestros clientes nos eligen por contar con una mayor efectividad en el
+tratamiento y por nuestra capacidad de reducir las sensaciones
+desagradables causadas por el exceso de fr├¡o de los cascos individuales
+(cooling cap) en contacto con la piel.
+
+Los sistemas computarizados de enfriamiento capilar, que se ofrecen en
+el pa├¡s
+
+. caro por que es importado y el impuesto a las importaciones es
+significativo (cuanto) en el precio final
+
+. Los establecimientos que ofrecen el servicio de scalp cooling buscan
+un tiempo de amortizaci├│n de 1,5 a├▒o aproximadamente, por lo tanto las
+sesiones son poco accesibles/exclusivas
+
+.brindamos un mejor servicio postventa por que tenemos emplazado en el
+pa├¡s el area de desarrollo y producci├│n del equipo y podemos brindar
+soluciones ├ígiles y precisas
+
+son Esto se logra a partir de un sistema automatizado, computarizado y
+continuo, por lo que no ocurren interrupciones durante la terapia, dando
+como resultado sesiones de scalp cooling con un preciso control de la
+temperatura de refrigeraci├│n.
+
+Proveemos un sistema de mantenimiento y postventa inmediato y
+personalizado
+
+Nuestros clientes adquieren nuestros productos por su calidad y precio.
+Encuestas realizadas entre los m├ís importantes, se├▒alaron estas razones
+de preferencia. Debido a nuestro esmero en la selecci├│n de las materias
+primas, y al cuidado en el proceso de fabricaci├│n, logramos un producto
+homog├®neo, a precio competitivo que, una vez probado, es nuevamente
+elegido para su consumo. Por otra parte, cuidamos el aspecto de
+distribuci├│n a fin de contestar en forma inmediata todo pedido o
+reclamo, de tal modo de instalar una imagen de responsabilidad y
+seriedad en nuestro trabajo.
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Producci├│n*
+____
+
+____
+_Describa c├│mo ser├ín producidos sus productos o servicios. Puede
+destacar los recursos humanos y materiales utilizados y el proceso
+productivo que utiliza o utilizar├í._
+
+El proceso de fabricaci├│n de pastas secas originalmente tuvo un alto
+componente artesanal. Este era un factor fundamental no s├│lo para
+obtener un producto de buena calidad sino para definir la composici├│n de
+la mezcla y con ello la eficiencia de producci├│n. Nuestra empresa s├│lo
+tiene empleados de gran experiencia y conocimiento en estas tareas, lo
+que permite asegurar esas exigencias.
+
+Actualmente, los procesos est├ín integrados y mecanizados por lo que se
+requiere equipamiento de alta tecnolog├¡a, al igual que personal de alta
+calificaci├│n, no s├│lo para entender y dirigir el proceso, sino para
+operar los equipos de producci├│n.
+____
+
+[arabic, start=3]
+. {blank}
++
+____
+*Futuros productos y servicios*
+____
+
+____
+_┬┐Tiene planes para actualizar los productos o servicios existentes o
+para ofrecer otros nuevos en los pr├│ximos a├▒os? Si as├¡ fuera, describa
+brevemente lo que planea hacer._
+____
+
+*_21_*
+
+____
+La fabricaci├│n de pastas secas y/o con agregados de huevo es
+tradicional. En cambio, productos que incorporan otros gustos (morrones,
+espinacas, etc.) son elaborados en forma m├ís artesanal y con ello
+sujetos a variaciones en su calidad y sabor. Precisamente, a los fines
+de lograr un gusto homog├®neo resulta imprescindible avanzar con la
+incorporaci├│n de tecnolog├¡a que asegure una calidad estable. Por otra
+parte existen en carpeta el desarrollo de mejoras en las composiciones y
+sabores, que tendr├í una mayor posibilidad una vez que se incorpore el
+nuevo equipo.
+____
+
+[arabic, start=4]
+. {blank}
++
+____
+*Ventajas competitivas en la producci├│n de productos y servicios*
+____
+
+____
+_┬┐Hay alg├║n aspecto destacable en su capacidad de producci├│n que puede
+significar una ventaja con respecto a sus competidores? Por ejemplo, ┬┐
+posee personal especializado, nueva tecnolog├¡a, insumos a menores
+costos, etc.?_
+____
+
+En la actualidad, las ventajas de nuestra empresa pueden resumirse en
+las siguientes:
+
+* Nombre y trayectoria en el mercado de pastas.
+* Calidad y precio de productos. Compite con las primeras marcas en
+ambos aspectos.
+* Atenci├│n urgente de quejas y pedidos al cliente
+* Localizaci├│n adecuada, lo que influye en el abastecimiento (costo de
+la materia prima), y en el transporte de nuestros productos.
+* Estructura organizativa eficiente, con personal especializado, con
+capacitaci├│n actualizada constantemente.
+
+____
+*_22_*
+____
+
+[arabic, start=3]
+. {blank}
++
+____
+*DESCRIPCI├ôN DEL SECTOR*
+____
+[arabic]
+.. {blank}
++
+____
+*Estudios de Mercado*
+____
+
+____
+_Es importante tener una buena comprensi├│n del sector en el cual se
+operar├í. En este punto, ser├¡a ├║til que comente si ha efectuado alguna
+investigaci├│n del mercado en que se desenvuelve. Por ejemplo, si ha
+efectuado alguna encuesta entre sus actuales y potenciales clientes, si
+tuvo acceso a informes o estad├¡sticas elaboradas por terceros o
+art├¡culos period├¡sticos, si ha conversado con gente bien informada sobre
+su sector de actividad, o alguna otra fuente confiable._
+
+A fin de considerar la posibilidad de venta de nuestra producci├│n se ha
+recurrido a las cifras y estad├¡sticas disponibles en la C├ímara del
+sector, publicaciones del ramo, del pa├¡s y del exterior.
+
+En tal sentido, disponemos de estudios de mercado realizados en la
+Rep├║blica Argentina de donde se desprende que el consumo de pastas secas
+se estima en 250.000 toneladas/a├▒o, mientras que el de Brasil es tres
+veces del de Argentina.
+
+La tendencia alimentaria actual define a las pastas como una comida
+natural, rica en prote├¡nas y fibras, pobre en grasas, con complejos
+carbohidratos, vitamina A, calcio, niacina, y de f├ícil digesti├│n, por lo
+que en el presente se encuentra dentro de los elementos de amplia
+recomendaci├│n por los nutricionistas y diet├│logos, en contraposici├│n a
+las dietas con importante contenido de grasa y pobre en fibras.
+
+Por dicha raz├│n, es esperable que el consumo de pastas en el mundo y
+especialmente en las sociedades y niveles de m├ís alto poder adquisitivo
+tienda a incrementarse, ya que dicho consumo se identifica con una dieta
+sana.
+
+En Brasil , futuro mercado, la definici├│n de pasta est├í dada por:
+ÔÇ£Producto alimentario a base de harina de trigo, s├®mola y agua, con o
+sin contenido de huevo, poco perecedero, para ser consumido cocido. Se
+excluyen las pastas proteicas, diet├®ticas, con gluten, a base de arroz,
+y pasta fresca.ÔÇØ
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+**Tama├▒o del secto**r
+____
+
+____
+_Describa el tama├▒o del sector en el cual su empresa funciona o
+funcionar├í. Hay un conjunto de factores que determinan esa dimensi├│n: el
+monto total de las ventas, el n├║mero de las unidades vendidas, la
+cantidad de empresas, el empleo total. Puede incluir cualquier otra
+estad├¡stica que tenga sobre el crecimiento del sector y trate de evaluar
+la participaci├│n sobre el total que tiene o tendr├í su empresa._
+
+Existen en el pa├¡s alrededor de 100 empresas productoras de pastas
+secas, en su mayor├¡a peque├▒as y medianas con procesos industriales
+semiartesanales.
+
+La demanda de pastas se halla fuertemente concentrada, siendo los
+principales centros de consumo la Capital Federal y el Gran Buenos
+Aires, zonas de las provincias de Santa Fe, C├│rdoba y, en menor medida,
+Mendoza.
+
+En la Argentina, el consumo de pastas secas en 1999 fue de m├ís de 7,1
+kg. per c├ípita anual.
+
+En lo que refiere a marcas, se observa que el mercado no tiene una gran
+concentraci├│n ya que las tres primeras empresas participan con el 24% de
+las ventas totales.
+
+El mercado demanda principalmente pastas secas del tipo spaghetti (en
+general del grosor n├║mero 8) y tirabuz├│n en fideos largos, y del tipo
+Ave Mar├¡a en cortos.
+____
+
+En este aspecto, hay que distinguir dos mercados diferentes:
+
+* {blank}
++
+____
+el de calidad standard, o intermedia, que forma parte de la canasta
+familiar
+____
+
+*_23_*
+
+* {blank}
++
+____
+el de calidad superior, que se consume principalmente en las franjas m├ís
+altas de la poblaci├│n. De las conversaciones que se han mantenido con
+importadores y supermercados locales, surge, con respecto a las pastas
+argentinas, que la calidad del producto es buena pero que de ninguna
+manera puede competir con las de origen italiano.
+____
+
+____
+En este sentido, son coincidentes en que si se intenta competir en el
+segmento de primera calidad, deber├¡an desarrollarse campa├▒as de
+distinci├│n del producto nacional, aunque teniendo en cuenta que los
+precios deber├¡an ubicarse, inicialmente, en niveles menores al de los
+productos importados.
+____
+
+[arabic]
+. {blank}
++
+____
+*Principales segmentos de los productos o servicios*
+____
+
+____
+_Un sector econ├│mico puede estar constituido por un determinado n├║mero
+de productos. Por ejemplo, en el de la industria panadera pueden
+definirse un conjunto de bienes, tales como pan de harina de trigo, pan
+integral, facturas, galletas, etc. Trate de explicar los productos que
+integran su actividad, destacando el tama├▒o y las caracter├¡sticas de los
+segmentos en los que su empresa deber├í competir._
+
+Los productos de la industria de pastas se clasifican por formas y
+tipos. De acuerdo a los estudios que realizamos en el pa├¡s, nuestra
+empresa se orientar├í principalmente con su nuevo equipamiento, a
+producir los tipos con y sin huevo y las formas guiseras y soperas, como
+el spaghetti y tirabuz├│n en fideos largos, y del tipo Ave Mar├¡a en
+cortos.
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Principales segmentos del mercado*
+____
+
+____
+_Su actividad puede dividirse en segmentos de mercado. ┬┐Qui├®nes
+participan en el sector en el cual usted vende sus productos o
+servicios? Divida su mercado en grupos de clientes, destacando las
+caracter├¡sticas y tama├▒o de los mismos. Por ejemplo, puede clasificar a
+esos grupos por su ubicaci├│n geogr├ífica, el sexo, la edad, u otras
+variables que puedan ser significativas para la demanda de sus bienes o
+servicios. ┬┐Tiene previsto cu├íl es o va ser su participaci├│n en esos
+segmentos?_
+
+Actualmente, el mercado se compone de tres segmentos bien diferenciados:
+los supermercados, los distribuidores mayoristas y peque├▒os comercios.
+
+Nuestra empresa provee en forma directa a supermercados (62% de la
+venta) y a distribuidores del Gran Buenos Aires (35% de la venta) y s├│lo
+el 3% a comercios tradicionales. En los ├║ltimos a├▒os, asistimos a un
+gran crecimiento de las compras del segmento de los super e
+hipermercados.
+
+La ampliaci├│n de nuestra producci├│n ser├í destinada a nuestros actuales
+clientes mientras que en el interior las operaciones y contactos se han
+realizado con distribuidores mayoristas y supermercados. Cabe se├▒alar
+que nuestros actuales productos ya se encuentran presentes en algunas
+ciudades en supermercados e hipermercados pertenecientes a las grandes
+cadenas, como en las provincias de C├│rdoba y Santa Fe.
+____
+
+[arabic, start=3]
+. {blank}
++
+____
+*Proceso y criterio de compras de los clientes*
+____
+
+____
+_Es importante saber c├│mo y por qu├® los clientes compran sus productos o
+los de su competencia. Por ejemplo, qu├® importancia tiene el precio, la
+calidad, las garant├¡as o el servicio de pos-venta que usted ofrece, en
+la toma de decisiones de compra de sus clientes. Explique resumidamente
+c├│mo los criterios del proceso de compra pueden variar en cada uno de
+los segmentos de mercado o del producto._
+
+Para nuestro producto, el criterio de compra del segmento elegido se
+basa en la calidad, composici├│n y precio. Se elaborar├í un producto de
+calidad superior, natural, sin aditivos, y con elementos de primera
+calidad, con un packaging atractivo y t├®cnicamente correcto.
+
+*_24_*
+____
+
+[arabic, start=4]
+. {blank}
++
+____
+*Descripci├│n de los participantes del sector*
+____
+
+____
+_Describa, en t├®rminos generales, los tipos de empresas que compiten en
+su sector. Por ejemplo, donde est├ín localizadas, cu├íl es la diversidad
+de sus productos y l├¡neas de servicios, si sabe cu├íntas hay o las m├ís
+importantes de qu├® tama├▒o son en ventas o producci├│n y c├│mo son sus
+sistemas de distribuci├│n._
+
+En el a├▒o 1998, momento en que se realiz├│ nuestra investigaci├│n de
+mercado, las principales empresas y marcas eran:
+
+Molinos R├¡o de la Plata: Matarazzo, Trigoflor, Favorita, Vitina
+
+Terrabusi: Terrabusi, Don Felipe Minetti y C├¡a: Letizia, Ol├¡mpico
+Virgilio Manera: Manera
+
+Canale: Canale
+
+Fagnani Hnos: Don Vicente, Fagnani Italo Manera: Nutregal, Argenpasta
+Vizzolini: Vizzolini
+
+Cardenes Hnos.: Pasta Maggiore, Fidevitam MorixeHnos: Morixe, Neptuno,
+Tat├¡n
+
+De Pavel: El ├íngel, De Paola Fideer├¡a San Carlos: 308, Dintel
+
+Establecimiento Fideero Marini: Fidemar Establecimiento Bah├¡a Blanca:
+Barrita de Oro, Via Veneto Aguiar y C├¡a: R├®cord
+
+Molinos Brunning: Fidegall
+
+Como consecuencia de adquisiciones realizadas por grupos
+multinacionales, varias de estas empresas se fusionaron y algunas
+llevaron adelante procesos de actualizaci├│n tecnol├│gica.
+
+*3.7.Tendencias clave en el sector*
+
+_Lo ├║nico que es constante en un negocio es el cambio. ┬┐Cu├íles son las
+tendencias dominantes en su actividad? Estas tendencias pod├¡an incluir
+cambios en tecnolog├¡a, productos, moda, mercados, regulaciones o
+condiciones econ├│micas. ┬┐Cu├íles de esas tendencias afectar├ín a su
+empresa en los pr├│ximos a├▒os?_
+
+La tendencia clave en nuestra actividad es la diferenciaci├│n entre
+productos de menor calidad y de calidad superior. Nuestra empresa define
+su estrategia en la producci├│n de pasta de primera calidad, obteni├®ndola
+de productos naturales. Como se indic├│ antes, la tendencia de la
+poblaci├│n de poder adquisitivo medio o alto es a consumir productos
+naturales.
+
+La tecnolog├¡a influir├í positivamente en el proceso de producci├│n
+aumentando la homogeneidad del producto y llevando un control preciso de
+los componentes del mismo, de tal forma de propender al ahorro de
+materias primas claves en la composici├│n de costos.
+
+Nuestro acuerdo con el licenciatario de la tecnolog├¡a nos permitir├í
+acceder a innovaciones y mejoras tecnol├│gicas durante los pr├│ximos 5
+a├▒os, para mantenernos a la vanguardia de los procesos de producci├│n.
+
+*3.8 Visi├│n del sector*
+
+_Considere qu├® productos tienen las mayores oportunidades de crecimiento
+en los pr├│ximos a├▒os y por qu├®, y para cu├íles se puede esperar una
+declinaci├│n en las ventas._
+
+Nuestra empresa provee productos cuyo consumo ha ido creciendo en los
+├║ltimos a├▒os. Dado que las pastas de tipo intermedio son un componente
+b├ísico de la canasta familiar, s├│lo se prev├® alguna modificaci├│n del
+volumen demandado por el segmento de mayor precio. En ├®pocas de demanda
+estable y consecuente competencia por precio se mantendr├ín aquellos que
+ya est├ín instalados, que tienen precios y calidad competitivas y pueden
+producir con bajos costos.
+
+Por tal motivo, nuestro prop├│sito es abordar tambi├®n otros mercados y el
+que hemos considerado posible en el futuro es el brasile├▒o.
+____
+
+*_25_*
+
+____
+*4.-ESTRATEGIA DE COMERCIALIZACI├ôN*
+____
+
+[arabic]
+. {blank}
++
+____
+*Mercado objetivo*
+____
+
+____
+_En la secci├│n anterior, usted describi├│ el mercado de su actividad. ┬┐A
+qu├® clientes o segmentos de mercado su empresa apuntar├í espec├¡ficamente?
+Por ejemplo, se puede definir su mercado objetivo por tipo cliente y por
+regi├│n geogr├ífica. ┬┐C├│mo sus mercados pueden cambiar durante el per├¡odo
+de su Plan de Negocios?_
+
+Con respecto a nuestro mercado objetivo, el primer paso ser├í hacer
+conocer masivamente nuestro producto a trav├®s de supermercados locales,
+distribuidores y mayoristas, en las zonas Gran Buenos Aires, C├│rdoba,
+Santa Fe y Mendoza. Hemos presentado muestras de nuestros productos
+actuales de primera calidad y ya hemos tenido nuestras primeras ventas
+con resultados positivos.
+
+Dado que la mejora en la tecnolog├¡a a emplear permitir├í la obtenci├│n de
+pastas de calidad similar a las mejores importadas puede esperarse una
+mayor aceptaci├│n de nuestros nuevos productos.
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Descripci├│n de los competidores principales*
+____
+
+____
+_Seguramente hay otras empresas que est├ín compitiendo en el mismo
+mercado. Trate de enumerar a sus competidores principales y proporcionar
+una descripci├│n abreviada de sus negocios en t├®rminos de la
+localizaci├│n, producci├│n, estrategias de comercializaci├│n, y posici├│n en
+el mercado._
+
+Los competidores principales y sus marcas fueron enumerados
+anteriormente.
+
+Las principales empresas competidoras nacionales se encuentran
+localizadas en la Ciudad de Buenos Aires y en menor medida en C├│rdoba y
+Santa Fe.
+
+En lo que refiere a las principales marcas importadas, ├®stas
+provinieron, principalmente, de Italia y fueron entre otras: Barilla, De
+Cecco, Divella, Granarolo.
+
+Principales formas diponibles en el mercado: Spaghetti, Taglioline,
+Penne, Fusilli, Torchietti, Garganelli, Nidi, Farfalle, Tagliatelle,
+Rigatoni, Rosmarino, Anellini, Linguine, Lumaconi, Gnocchi, Eliche,
+Cappelletti, Lasagna, Conchiglioni, Taglarini, Maccheroncini.
+
+Tipos: Con o sin huevos, frescas, frescas congeladas, integrales.
+____
+
+[arabic, start=3]
+. {blank}
++
+____
+*An├ílisis de la posici├│n competitiva*
+____
+
+____
+_Se trata de comparar su negocio con el de sus competidores. ┬┐De qu├®
+manera su empresa tendr├í una ventaja competitiva sobre sus competidores
+y de qu├® forma podr├í encontrar alguna desventaja competitiva? ┬┐En qu├®
+mercados tiene las mayores ventajas?_
+
+Sobre los competidores nacionales la ventaja competitiva estar├í basada
+en lo que ya se explicara y en el uso de ├║ltima tecnolog├¡a.
+
+En resumen, la ventaja competitiva estar├í dada por:
+____
+
+[arabic]
+. {blank}
++
+____
+Empleo de moderna tecnolog├¡a de producci├│n.
+____
+. {blank}
++
+____
+Personal calificado con amplia experiencia.
+____
+. {blank}
++
+____
+Costos estructurales absorbidos por la actividad actual.
+____
+. {blank}
++
+____
+Responsable de comercializaci├│n socio de la compa├▒├¡a con amplio
+conocimiento del mercado y contactos
+____
+. {blank}
++
+____
+Referencias comprobables en el lugar (primeras operaciones ya
+realizadas)
+____
+
+____
+Tambi├®n debemos computar como una de las mayores ventajas la vinculaci├│n
+que hemos mantenido con nuestros clientes por espacio de m├ís de 20 a├▒os.
+____
+
+*_27_*
+
+____
+Estimamos que al cabo de un a├▒o de desarrollar actividades en el
+interior del pa├¡s lograremos el conocimiento y la confianza de nuestra
+empresa y marcas.
+____
+
+[arabic, start=4]
+. {blank}
++
+____
+*Estrategia de precios*
+____
+
+____
+_┬┐C├│mo establecer├í los precios de sus productos o servicios? ┬┐C├│mo son
+en relaci├│n con los de sus competidores? Por ejemplo, ┬┐seguir├í una
+pol├¡tica de precios bajos, descuentos por cantidad, financiaci├│n o
+alguna otra estrategia?_
+
+Nuestra pol├¡tica de precios incluye financiaci├│n y descuentos por
+cantidad, especialmente para aquellos clientes que han demostrado
+continuidad y solvencia. Premiar la fidelidad, que a largo plazo tendr├í
+el mejor resultado.
+
+En todos los casos los precios de los productos que compitan con los
+importados ser├ín sensiblemente m├ís bajos
+
+Para Brasil, nuestra pol├¡tica de precios ser├í, en principio, vender a
+precios de exportaci├│n inferiores a los actuales, por metodolog├¡a de
+exportaci├│n y posibilidades de producci├│n. En una etapa posterior se
+considerar├í la posibilidad de instalar un lugar de venta directa en San
+Pablo.
+____
+
+[arabic, start=5]
+. {blank}
++
+____
+*Estrategia de distribuci├│n*
+____
+
+____
+_C├│mo distribuir├í sus productos y/o servicios a sus mercados. D├│nde
+est├ín ubicados sus clientes, y c├│mo llegar├í a ellos, tanto para la venta
+como en la pos-venta._
+
+Dispondremos de los canales de distribuci├│n actuales. Contratamos los
+servicios de transporte para abastecer a los supermercados y mayoristas.
+____
+
+[arabic, start=6]
+. {blank}
++
+____
+*Estrategia de Promoci├│n*
+____
+
+____
+_Tener un buen producto o servicio no es una garant├¡a de ├®xito. Usted
+tiene que hacer conocer sus productos o servicios e informarles c├│mo y
+d├│nde pueden adquirirlos. Describa c├│mo har├í para que se conozcan.
+Destaque las actividades que usted emprender├í con ese objetivo; por
+ejemplo, inversi├│n en publicidad, demostraciones comerciales, mailing,
+telemarketing y cualquier otro medio de promoci├│n que utiliza o
+utilizar├í para llegar a sus potenciales clientes._
+
+Desarrollaremos campa├▒as de distinci├│n del producto nacional frente a
+los importados, a trav├®s de medios de comunicaci├│n provinciales y
+nacionales.
+
+Tenemos previsto efectuar campa├▒as de degustaci├│n en salones de
+supermercados e hipermercados donde se vende nuestro producto.
+
+Adem├ís, ya estamos dise├▒ando una serie de cuadernillos para ser
+utilizados por los consumidores de nuestras pastas, con recetarios para
+su elaboraci├│n con salsas y condimentos usados en varios pa├¡ses.
+
+*_28_*
+____
+
+[arabic, start=5]
+. {blank}
++
+____
+*GESTI├ôN Y PERSONAL*
+____
+[arabic]
+.. {blank}
++
+____
+*Estructura de su organizaci├│n*
+____
+
+____
+_Describa la organizaci├│n de su empresa. Comente cu├ínto personal dispone
+habitualmente y cu├ínto piensa tener en los pr├│ximos a├▒os._
+
+Existen 5 ├íreas diferenciadas: Comercializaci├│n, Producci├│n,
+Administraci├│n Compras y Mantenimiento.
+
+Habitualmente disponemos de 18 personas directamente vinculadas con la
+producci├│n. Adem├ís, a nivel de personal t├®cnico calificado contaremos
+con ocho profesionales (ingenieros mec├ínicos y qu├¡micos, t├®cnicos
+electromec├ínicos y de alimentos).
+
+Para las ├íreas de administraci├│n y comercializaci├│n se contar├í con 11
+personas adicionales, teniendo en cuenta las necesidades que origina la
+proyectada expansi├│n territorial de nuestras ventas.
+
+Los operarios, de los cuales el 50% trabaja con nosotros desde hace m├ís
+de 10 a├▒os y los m├ís recientes se han capacitado o se capacitar├ín de
+acuerdo a las tareas asignadas. Para ├®pocas de alta demanda se contratan
+cuatro operarios m├ís.
+
+Los socios nos ocupamos directamente de los m├íximos niveles de gesti├│n .
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Personal de gerencia*
+____
+
+____
+_Qui├®n o qui├®nes son las personas que integran el equipo de gesti├│n.
+Haga una lista con una breve descripci├│n con el cargo que cada uno
+ocupa, las funciones principales y la experiencia en cada caso.
+Considere las fortalezas y debilidades del personal de gerencia y de
+otros, y de qu├® manera se propone tratar esas debilidades._
+
+Gerente General y Gerente de Administraci├│n y Compras: RR, Contador, ha
+trabajado anteriormente, durante 7 a├▒os, como jefe de administraci├│n de
+la empresa comercializadora de alimentos ZZ, tomando a su cargo el ├írea
+de compras durante los dos ├║ltimos a├▒os de gesti├│n en dicha empresa.
+
+Gerente de Producci├│n y Mantenimiento: AA, Ingeniero Mec├ínico, se
+desempe├▒├│, antes de ingresar a la empresa, como jefe de mantenimiento y
+posteriormente de procesos de la empresa QQ, proveedora de autopartes
+met├ílicas y pl├ísticas.
+
+Gerente de Comercializaci├│n: BR, con estudios universitarios, adquiri├│
+una gran experiencia en estrategias de comercializaci├│n y ventas,
+durante los ├║ltimos 6 a├▒os, al desempe├▒arse como jefe de
+comercializaci├│n de una f├íbrica brasilera de productos alimenticios.
+Particip├│ en cursos especiales de comercializaci├│n en nuestro pa├¡s,
+Brasil, Espa├▒a e Italia. Por razones familiares regres├│ a la Argentina,
+incorpor├índose como socio de nuestra empresa.
+____
+
+[arabic, start=3]
+. {blank}
++
+____
+*Personal*
+____
+
+____
+_Explique, si necesita personal, c├│mo va a cubrir el o los cargos que no
+son de nivel gerencial en su empresa se├▒alando el perfil y nivel de
+experiencia que necesita y los salarios que estima pagar y si dicho
+personal requiere de alg├║n tipo de entrenamiento que usted est├í en
+condiciones de suministrar o si acudir├í a la capacitaci├│n externa._
+
+Estimamos que, en una primera etapa, necesitaremos personal calificado
+para el manejo del nuevo equipamiento, el que ser├í provisto por el
+fabricante del equipo en forma transitoria, y para transferir
+conocimientos al personal local. De esa manera podremos contar con mano
+de obra nacional en cantidad suficiente.
+____
+
+*_29_*
+
+____
+Nos hemos relacionado con departamentos de extensi├│n universitaria de la
+Universidad de Buenos Aires, que manifestaron su inter├®s en prestar
+servicios de asesoramiento en temas de uso de energ├¡a, electr├│nica y
+procesos industriales.
+
+No habr├í modificaciones en los salarios que habitualmente paga la
+compa├▒├¡a, excepto por la contrataci├│n de uno o varios t├®cnicos de la
+empresa licenciataria del equipo. para la supervisi├│n de la puesta en
+marcha del equipo y el consiguiente curso de capacitaci├│n
+____
+
+[arabic, start=4]
+. {blank}
++
+____
+*Mercado de trabajo*
+____
+
+____
+_Contemple qu├® factores pueden afectar la capacidad de identificar el
+personal que necesita y mantenerlo en su negocio._
+
+Nuestro personal tiene una antig├╝edad mayor a 7 a├▒os en la compa├▒├¡a. Por
+numerosas razones estimamos que la permanencia en el negocio no ser├í
+afectada. Por otra parte nuestro personal estar├í especializado en
+nuestro equipamiento y tendr├í mayor calificaci├│n, lo que le permitir├í
+lograr un mejor salario en nuestra compa├▒├¡a.
+____
+
+[arabic, start=5]
+. {blank}
++
+____
+*M├®todos de producci├│n*
+____
+
+____
+_Explique si su empresa puede variar el m├®todo de producci├│n y si ha
+hecho estimaciones del costo de esa variaci├│n. Por ejemplo trabajar en
+dos turnos o m├ís._
+
+La producci├│n de planta se ha estudiado considerando la normativa
+laboral y las distintas alternativas de cantidad de personal y m├®todo de
+trabajo: por turnos, equipos, en jornada extendida, etc. Los costos que
+se incorporan en el rubro personal son los resultantes de la alternativa
+que contribuye en mayor medida al resultado econ├│mico del
+emprendimiento.
+
+*_30_*
+____
+
+[arabic, start=6]
+. {blank}
++
+____
+*PROTECCION Y NORMATIVAS*
+____
+[arabic]
+.. {blank}
++
+____
+*Protecci├│n a la Propiedad Intelectual*
+____
+
+____
+_En el caso de que sus procesos, productos o servicios, se encuentren
+protegidos por Patentes, Propiedad intelectual, Marcas, Licencias,
+Permisos u otros tipos de protecci├│n, descr├¡balos brevemente._
+
+Nuestra marca se halla patentada en la Argentina y se ha encomendado a
+gestores la registraci├│n en el Brasil y Chile.
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Cuestiones normativas*
+____
+
+____
+_┬┐Qu├® tipo de disposiciones normativas pueden afectar su actividad en
+forma directa? ┬┐Su negocio requiere de licencias o permisos? ┬┐Qu├®
+medidas ha contemplado para cumplir con las mencionadas normativas ?_
+
+Nuestra empresa dispone, para sus productos, de las aprobaciones para
+alimentos correspondientes a las normas vigentes en el pa├¡s.
+
+Posici├│n arancelaria: xxxxx
+____
+
+*_31_*
+
+[arabic, start=7]
+. {blank}
++
+____
+*PLAN DE PUESTA EN MARCHA*
+____
+[arabic]
+.. {blank}
++
+____
+*Implementaci├│n*
+____
+
+____
+_┬┐Cu├índo se iniciar├ín las principales actividades contenidas en su Plan
+de Negocios, y qui├®nes ser├ín los responsable de llevarlas a cabo?
+┬┐Cu├índo finalizar├ín las mismas?_
+
+La actividad contenida en este Plan se inicia con la adquisici├│n del
+equipamiento industrial. Hemos elaborado un cronograma de actividades y
+tiempos donde se expresan todas las actividades a desarrollar que
+finalizan con la puesta en marcha y en r├®gimen del equipamiento, y que
+se agrupan en las proyecciones financieras bajo el nombre de gastos pre
+operativos.
+____
+
+*_33_*
+
+[arabic, start=8]
+. {blank}
++
+____
+*RIESGOS*
+____
+[arabic]
+.. {blank}
++
+____
+*Riesgos del mercado*
+____
+
+____
+_┬┐Hay alguna situaci├│n que pueda afectar la demanda de los productos o
+servicios que produce su empresa durante la duraci├│n del presente Plan
+de Negocios? Si as├¡ fuera, qu├® deber├¡a ocurrir para que ello suceda, y
+si ha previsto alguna medida para reducir su impacto._
+
+El riesgo que hemos previsto es externo al emprendimiento, y est├í
+constituido por la normativa relativa a situaciones pararancelarias,
+variaciones en el tipo de cambio y en el precio de los insumos que
+tienen relaci├│n con el precio de mercado internacional.
+
+Creemos que estas medidas pueden originar impactos negativos
+circunstanciales, ya que basados en un producto competitivo, se
+restablecer├í la ecuaci├│n que permita su actividad.
+
+No obstante, el bajo nivel de producci├│n en el que se alcanza el punto
+de equilibrio del emprendimiento-aprox. 1.350.000 Kg./a├▒o- permite
+estimar que s├│lo casi con el mercado actual se puede superar ese
+inconveniente.
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Otros riesgos*
+____
+
+____
+_Si usted ha considerado alg├║n otro riesgo (que no sea de mercado) que
+pueda afectar el ├®xito de su negocio, expl├¡quelo indicando c├│mo ha
+previsto atenuar el impacto del mismo._
+
+No se han previsto.
+____
+
+*_35_*
+
+[arabic, start=9]
+. {blank}
++
+____
+*INFORMACI├ôN ECON├ôMICA-FINANCIERA*
+____
+[arabic]
+.. {blank}
++
+____
+*Contenido*
+____
+
+____
+Esta parte es muy importante pues identifica sus necesidades financieras
+y muestra las potenciales utilidades.
+
+Un negocio puede desarrollarse y sobrevivir s├│lo si genera ganancias. En
+la etapa de preparaci├│n de su Plan de Negocios usted necesita saber la
+cantidad de dinero que necesita y las utilidades esperadas.
+
+Para ello, la informaci├│n financiera b├ísica que debe contener el Plan de
+Negocios comprende cuatro documentos principales:
+____
+
+[arabic]
+. {blank}
++
+____
+Flujos financieros mensuales para el primer a├▒o fiscal, que mostrar├í
+cu├íntos fondos ingresar├ín y cu├íntos egresar├ín.
+____
+. {blank}
++
+____
+Flujos financieros anuales para el segundo y tercer a├▒o fiscal.
+____
+. {blank}
++
+____
+Balance proyectado a tres a├▒os.
+____
+. {blank}
++
+____
+Estado de Resultados proyectado a tres a├▒os.
+____
+
+[arabic]
+. {blank}
++
+____
+*Flujos financieros*
+____
+
+____
+Es una estimaci├│n de la cantidad de dinero que ingresa y egresa en un
+per├¡odo de tiempo determinado. En esta proyecci├│n, hemos desarrollado el
+flujo por cinco a├▒os.
+
+Entre otras, esta informaci├│n le servir├í para calcular cu├ínto dinero
+necesita antes de que su negocio comience a tener flujos positivos
+(ingresos mayores a egresos) y cu├índo va a recuperar la inversi├│n.
+
+Tambi├®n le ser├í muy ├║til para saber cu├índo y c├│mo el dinero ingresar├í y
+c├│mo y cu├índo saldr├í en los meses siguientes. As├¡, podr├í estimar cu├ínto
+dinero tendr├í en caja y los posibles ÔÇ£bachesÔÇØ financieros.
+
+La proyecci├│n del flujo financiero le permite adoptar las medidas
+correspondientes, en caso de que los tiempos reales de cobranzas y pagos
+no se ajusten a los estimados en las proyecciones.
+
+Los pasos l├│gicos para obtener los datos necesarios y elaborar el
+conjunto de planillas indicadas precedentemente entre otros son:
+____
+
+* {blank}
++
+____
+*Estimaci├│n de ventas de sus productos y servicios*
+____
+
+____
+Se trata de estimar sus ventas mensuales durante el primer a├▒o, y en
+forma anual para los siguientes, para los principales productos o
+servicios que tiene previsto ofrecer, precios actuales y proyectados. Si
+Ud. ofrece muchos servicios indique aquellos que cubren el 75% de sus
+ventas totales
+____
+
+* {blank}
++
+____
+*Estimaci├│n de la cobranzas en sus ventas*
+____
+
+____
+┬┐Cu├íl ha sido la mora e incobrabilidad del ├║ltimo semestre?
+____
+
+* {blank}
++
+____
+*Estimaci├│n del costo de producci├│n de sus ventas*
+____
+
+____
+┬┐Tiene en su empresa identificados y/o desarrollado un sistema de costos
+y/o un sistema de presupuestos? ┬┐C├│mo ha estimado el costos de sus
+ventas?
+____
+
+* {blank}
++
+____
+*Estimaci├│n de gastos de administraci├│n, comercializaci├│n, e
+impositivos*
+____
+* {blank}
++
+____
+*Determinaci├│n de otras fuentes de financiamiento vinculadas, servicios
+de la deuda y otros usos de los recursos.*
+____
+
+____
+┬┐Cu├íles otras fuentes de financiamiento tiene actualmente?
+
+┬┐Qu├® pol├¡tica de dividendos tiene comprometida y/o llevar├í a cabo?
+____
+
+*_37_*
+
+____
+Se solicita que todo ingreso o egreso de fondos que no provenga de la
+operaci├│n de la empresa, por ejemplo retiros, distribuci├│n de utilidades
+, pr├®stamos obtenidos, amortizaci├│n de pr├®stamos e intereses, u otros,
+se listen y describan por separados.
+____
+
+[arabic, start=2]
+. {blank}
++
+____
+*Balance Inicial*
+____
+
+____
+Se requiere una informaci├│n como punto de partida. Si es una empresa
+existente, debe elaborarse una planilla que contenga los datos del
+balance inicial para el per├¡odo correspondiente al plan de negocios
+considerado.
+
+Adem├ís de las cifras contenidas en el Balance interesa conocer:
+____
+
+[arabic]
+. {blank}
++
+____
+Situaci├│n a la fecha de presentaci├│n del Plan .
+____
+. {blank}
++
+____
+Existencias de bienes de cambio.
+____
+. {blank}
++
+____
+Plazos de cobranzas y pagos
+____
+. {blank}
++
+____
+Principales acreedores, plazos de amortizaci├│n y tasas.
+____
+. {blank}
++
+____
+Principales contingencias incorporadas al Balance.
+____
+. {blank}
++
+____
+Factores que han alterado su rentabilidad.
+____
+
+____
+Si se trata de un negocio nuevo, parte de esta informaci├│n no ser├í
+necesaria.
+
+*Proyectado anual.*
+
+El Balance General proyectado o pro-forma es necesario para que usted
+conozca c├│mo queda su situaci├│n patrimonial al t├®rmino de cada a├▒o, en
+especial la relaci├│n activo pasivo de su negocio. En esta proyecci├│n, lo
+hemos hecho a un a├▒o.
+____
+
+[arabic]
+. {blank}
++
+____
+*Estado de Resultados proyectado a tres a├▒os con frecuencia anual*
+____
+
+____
+Esta planilla re├║ne la informaci├│n que ha sido preparada previamente a
+la que deben agregarse los intereses de cada operaci├│n de cr├®dito que
+haya efectuado, las amortizaciones y los impuestos correspondientes a
+cada uno de los a├▒os proyectados. En esta proyecci├│n, lo hemos hecho a
+un a├▒o.
+
+*_38_*
+
+*Balance Inicio*
+
+Ejercicio del 01/01/2001 al 31/12/2001
+____
+
+[cols=",,,,,",options="header",]
+|===
+a|
+____
+*ACTIVO*
+____
+
+| | a|
+____
+*PASIVO*
+____
+
+| |
+a|
+____
+Activo Corriente Caja y Bancos
+____
+
+|60.000,00 | a|
+____
+Pasivo Corriente Proveedores
+____
+
+|100.000,00 |
+a|
+____
+Cuentas a cobrar
+____
+
+|150.000,00 | a|
+____
+Impuestos
+____
+
+|30.000,00 |
+a|
+____
+Bienes de Cambio
+____
+
+| | a|
+____
+Otros Pr├®stamos
+____
+
+|67.932,00 |
+a|
+____
+Materias Primas
+____
+
+|8.881,60 | a|
+____
+*Total Pasivo Corriente*
+____
+
+| |197.932,00
+a|
+____
+Productos Terminados
+____
+
+|24.435,71 | a|
+____
+Pasivo no corriente
+____
+
+| |
+a|
+____
+*Total Activo Corriente*
+____
+
+| a|
+____
+243.317,31
+____
+
+a|
+____
+Otros pr├®stamos
+____
+
+|102.068,00 |
+a|
+____
+Activo no Corriente Bienes de Uso
+____
+
+|780.000,00 | a|
+____
+*Total Pasivo No Corriente*
+____
+
+| |102.068,00
+a|
+____
+Amortizaci├│n Acumulada
+____
+
+|-234.000,00 | a|
+____
+*Total Pasivo*
+____
+
+| |300.000,00
+a|
+____
+*Total Activo No Norriente*
+____
+
+| a|
+____
+546.000,00
+____
+
+a|
+____
+*PATRIMONIO NETO*
+
+Capital
+____
+
+|300.000,00 |
+| | | a|
+____
+Resultados no asignados
+____
+
+|96.458,46 |
+a|
+____
+*Total Activo*
+____
+
+| a|
+____
+789.317,31
+____
+
+a|
+____
+Resultados ejercicio
+
+*Total Patrimonio Neto*
+____
+
+|92.858,85 |489.317,31
+| | | a|
+____
+*Total Pasivo + Patrimonio Neto*
+____
+
+| |789.317,31
+|===
+
+____
+*FLUJO DE FONDOS*
+
+FIRMA: PAST SA
+
+Per├¡odo comprendido entre el 01/01/2002 y el 31/01/2004
+____
+
+[cols=",,,,,,,,,,,,,,,,,",options="header",]
+|===
+a|
+____
+*DETALLE*
+____
+
+|*MES 1* |*MES 2* |*MES 3* |*MES 4* |*MES 5* |*MES 6* |*MES 7* |*MES 8*
+|*MES 9* |*MES 10* |*MES 11* a|
+____
+*ES 12*
+____
+
+a|
+____
+A├▒o 1
+
+*Total*
+____
+
+a|
+____
+A├▒o 2
+
+*Total*
+____
+
+a|
+____
+A├▒o 3
+
+*Total*
+____
+
+a|
+____
+A├▒o 4
+
+*Total*
+____
+
+a|
+____
+A├▒o 5
+
+*Total*
+____
+
+a|
+____
+Saldo inicio
+
+{empty}A) INGRESOS
+
+A1) Cobranzas netas de IVA A1.1) Mercado interno
+
+A1.2) Mercado externo
+____
+
+a|
+60.000
+
+0
+
+110.000
+
+0
+
+a|
+0
+
+106.000
+
+0
+
+a|
+0
+
+66.000
+
+0
+
+a|
+0
+
+90.000
+
+0
+
+a|
+0
+
+132.000
+
+0
+
+a|
+0
+
+132.000
+
+0
+
+a|
+0
+
+162.000
+
+0
+
+a|
+0
+
+168.000
+
+0
+
+a|
+0
+
+174.000
+
+0
+
+a|
+0
+
+180.000
+
+0
+
+a|
+0
+
+186.000
+
+0
+
+a|
+0
+
+192.000
+
+0
+
+a|
+60.000
+
+0
+
+1.698.000
+
+0
+
+|2.372.500 |2.974.850 |3.425.850 |3.425.850
+
+a|
+____
+A2) Otros Ingresos
+____
+
+a|
+____
+126.000
+____
+
+|0 |0 |0 |0 |30.000 |0 |0 |0 |0 |0 |0 |156.000 |0 |0 |0 |0
+
+a|
+____
+TOTAL INGRESOS (A)
+____
+
+a|
+____
+296.000
+____
+
+|106.000 |66.000 |90.000 |132.000 |162.000 |162.000 |168.000 |174.000
+|180.000 |186.000 |192.000 |1.914.000 |2.372.500 |2.974.850 |3.425.850
+|3.425.850
+
+a|
+____
+{empty}B) EGRESOS
+
+B1) Costos Operativos
+
+B1.1) Costo producci├│n o Ventas B1.2) Gastos comercializaci├│n B1.3)
+Gastos administraci├│n
+____
+
+a|
+____
+127.339
+
+71.576
+
+25.769
+
+17.109
+____
+
+a|
+____
+82.197
+
+45.022
+
+11.406
+____
+
+a|
+____
+82.197
+
+45.022
+
+38.654
+
+25.769
+
+11.406
+____
+
+a|
+____
+93.376
+
+56.201
+
+25.769
+
+11.406
+____
+
+a|
+____
+112.940
+
+75.765
+
+25.769
+
+11.406
+____
+
+a|
+____
+117.899
+
+80.723
+
+25.769
+
+11.406
+____
+
+a|
+____
+142.825
+
+87.062
+
+25.769
+
+17.109
+____
+
+a|
+____
+126.933
+
+89.758
+
+25.769
+
+11.406
+____
+
+a|
+____
+129.629
+
+92.454
+
+38.654
+
+11.406
+____
+
+a|
+____
+138.272
+
+101.097
+
+25.769
+
+11.406
+____
+
+a|
+____
+147.312
+
+110.137
+
+25.769
+
+11.406
+____
+
+a|
+163.850
+
+126.674
+
+25.769
+
+____
+11.406
+____
+
+a|
+1.464.771
+
+981.491
+
+335.000
+
+148.280
+
+a|
+1.967.189
+
+1.435.127
+
+389.675
+
+142.388
+
+a|
+2.424.833
+
+1.865.665
+
+407.746
+
+151.423
+
+a|
+2.664.456
+
+1.986.993
+
+519.276
+
+158.188
+
+a|
+2.664.456
+
+1.986.993
+
+519.276
+
+158.188
+
+a|
+____
+B2) Serv.deuda baria y/o fciera.
+
+Amortizaci├│n Inter├®s
+____
+
+a|
+0
+
+3.900
+
+a|
+0
+
+5.100
+
+a|
+0 0
+
+5.100
+
+a|
+0
+
+5.100
+
+a|
+____
+33.966
+
+5.100
+____
+
+a|
+0
+
+5.100
+
+a|
+0
+
+5.500
+
+a|
+0
+
+5.100
+
+a|
+0
+
+5.000
+
+a|
+0
+
+5.000
+
+a|
+____
+33.966
+
+5.000
+____
+
+|5.000 a|
+____
+67.932
+
+60.000
+____
+
+a|
+____
+67.932
+
+40.000
+____
+
+a|
+____
+34.136
+
+40.000
+____
+
+a|
+0
+
+40.000
+
+a|
+0
+
+40.000
+
+a|
+____
+B3) Impuestos
+____
+
+|6.000 |6.000 |6.000 |6.000 |6.000 |0 |0 |0 |0 |0 |0 |0 |30.000 |40.000
+|111.000 |125.000 |125.000
+
+a|
+____
+B4) Otros Egresos
+____
+
+a|
+____
+600.000
+____
+
+|0 |0 |0 |0 |0 |0 |0 |6.000 |30.000 |30.000 |0 |666.000 |90.000 |100.000
+|200.000 |100.000
+
+a|
+____
+TOTAL EGRESOS (B)
+____
+
+[upperalpha, start=3]
+. {blank}
++
+____
+FLUJOS NETOS (A-B)
+____
+. {blank}
++
+____
+FLUJO NETO ACUMULADO
+____
+
+a|
+____
+737.239
+
+-441.239
+
+-441.239
+____
+
+a|
+____
+93.297
+
+12.703
+
+-428.537
+____
+
+a|
+____
+93.297
+
+-27.297
+
+-455.834
+____
+
+a|
+____
+104.476
+
+-14.476
+
+-470.310
+____
+
+a|
+124.040
+
+7.960
+
+-462.350
+
+a|
+156.965
+
+5.035
+
+-457.315-
+
+a|
+____
+148.325
+
+13.675
+
+443.641
+____
+
+a|
+____
+132.033
+
+35.967
+
+-407.674
+____
+
+a|
+____
+140.629
+
+33.371
+
+-374.303
+____
+
+a|
+173.272
+
+6.728
+
+-367.575
+
+a|
+182.312
+
+3.688
+
+-363.887-
+
+a|
+____
+202.816
+
+-10.816
+
+374.703
+____
+
+a|
+2.288.703
+
+-374.703
+
+a|
+2.205.121
+
+167.379
+
+a|
+2.709.969
+
+264.881
+
+a|
+3.029.456
+
+396.394
+
+a|
+2.929.456
+
+496.394
+
+a|
+____
+CREDITO SOLICITADO
+
+Intereses
+
+Amortizaci├│n capital prevista
+____
+
+a|
+____
+480.000
+____
+
+|-2.800 |-2.800 |-2.800 |-2.800 |-2.800 a|
+____
+-2.800
+
+-8.727
+____
+
+a|
+____
+-2.749
+
+-8.727
+____
+
+a|
+____
+-2.698
+
+-8.727
+____
+
+a|
+____
+-2.647
+
+-8.727
+____
+
+a|
+____
+-2.596
+
+-8.727
+____
+
+a|
+____
+-2.545
+
+-8.727
+____
+
+a|
+____
+480.000
+
+-30.036
+
+-52.364
+____
+
+a|
+____
+-26.575
+
+-104.724
+____
+
+a|
+____
+-18.635
+
+-104.724
+____
+
+a|
+____
+-10.695
+
+-104.724
+____
+
+a|
+____
+-10.695
+
+-104.724
+____
+
+a|
+____
+Flujo Neto
+____
+
+|38.761 |9.903 |-30.097 |-17.276 |5.160 |2.235 |2.147 |24.490 |21.945
+|-4.647 |-7.636 |-22.088 | | | | |
+
+a|
+____
+Flujo Neto Acumulado
+____
+
+|38.761 |48.663 |18.566 |1.290 |6.450 |8.685 |10.832 |35.322 |57.268
+|52.621 |44.986 |22.897 |22.897 |36.080 |141.523 |280.975 |380.975
+|===
+
+[cols=",,,,,",options="header",]
+|===
+a|
+____
+A├▒os 2002 2003 2004 2005
+
+Flujos del proyecto sin financiamiento -464.702,92 257.378,98 264.881,25
+396.393,75
+____
+
+| | | | |
+a|
+____
+VAN
+____
+
+a|
+____
+DEL
+____
+
+a|
+____
+PROYECTO
+____
+
+a|
+____
+TASA
+____
+
+a|
+____
+12%
+____
+
+a|
+____
+$ 230.720,26
+____
+
+a|
+____
+TIR
+____
+
+| | | | a|
+____
+40%
+____
+
+|===
+
+____
+EL FLUJO DE FONDOS DEBERA PRESENTARSE POR UN PERIODO COINCIDENTE CON EL
+PLAZO DEL CREDITO Y/O CALIFICACION SOLICITADA. SIENDO SU FECHA DE INICIO
+LA DE CIERRE DEL ULTIMO BALANCE PRESENTADO Y/O MANIFESTACION DE BIENES.
+
+SE DEBERA EXPONER POR PERIODOS MENSUALES.
+
+ANEXAR LAS BASES DE PRESUPUESTACION TENIDAS EN CUENTA PARA SU
+PREPARACION
+
+*_IMPORTANTE:_* se deber├í comenzar a completar el flujo de fondos a
+partir del cuadro I (pag.43) y luego el tcuadro ├ÄI (pag.45), ya que
+desde ellos se completar├í autom├íticamente la primera hoja.
+____
+
+[upperroman]
+. {blank}
++
+____
+*BASE DE DATOS DEL FLUJO DE FONDOS.*
+____
+
+____
+FIRMA: PAST S.A.
+____
+
+[cols=",,,,,,,,,,,,,",options="header",]
+|===
+a|
+____
+*A) INGRESOS*
+____
+
+a|
+____
+MES 1
+____
+
+a|
+____
+MES 2
+____
+
+a|
+____
+MES 3
+____
+
+a|
+____
+MES 4
+____
+
+a|
+____
+MES 5
+____
+
+a|
+____
+MES 6
+____
+
+a|
+____
+MES 7
+____
+
+a|
+____
+MES 8
+____
+
+|MES 9 a|
+____
+MES 10
+____
+
+a|
+____
+MES 11
+____
+
+a|
+____
+MES 12
+____
+
+a|
+____
+TOTAL
+____
+
+a|
+____
+A.1) COBRANZAS (netas de IVA y r├®gimen de cobranzas)
+
+A1.1) MERCADO INTERNO
+
+Volumen de Ventas
+
+Precio Unitario (neto de IVA)
+____
+
+a|
+____
+110.000
+
+55.000
+
+1,2
+____
+
+a|
+____
+106.000
+
+55.000
+
+1,2
+____
+
+a|
+____
+66.000
+
+75.000
+
+1,2
+____
+
+a|
+____
+90.000
+
+110.000
+
+1,2
+____
+
+a|
+____
+132.000
+
+110.000
+
+1,2
+____
+
+a|
+____
+132.000
+
+135.000
+
+1,2
+____
+
+a|
+____
+162.000
+
+140.000
+
+1,2
+____
+
+a|
+____
+168.000
+
+145.000
+
+1,2
+____
+
+a|
+____
+174.000
+
+150.000
+
+1,2
+____
+
+a|
+____
+180.000
+
+155.000
+
+1,2
+____
+
+a|
+____
+186.000
+
+160.000
+
+1,2
+____
+
+a|
+____
+192.000
+
+170.000
+
+1,2
+____
+
+a|
+____
+1.698.000
+
+1.460.000
+____
+
+a|
+____
+*Total de Ventas (vol.x precio)*
+____
+
+|*66.000* |*66.000* a|
+____
+*90.000*
+____
+
+a|
+____
+*132.000*
+____
+
+a|
+____
+*132.000*
+____
+
+a|
+____
+*162.000*
+____
+
+a|
+____
+*168.000*
+____
+
+a|
+____
+*174.000*
+____
+
+|*180.000* a|
+____
+*186.000*
+____
+
+a|
+____
+*192.000*
+____
+
+a|
+____
+*204.000*
+____
+
+a|
+____
+*1.752.000*
+____
+
+a|
+____
+A1.2) MERCADO EXTERNO
+
+Volumen de Ventas
+
+Precio Unitario (neto de IVA)
+____
+
+| | | | | | | | | | | | |
+
+a|
+____
+*Total de Ventas (vol.x precio)*
+____
+
+| | | | | | | | | | | | |
+
+a|
+____
+*TOTAL DE VENTAS (A.1.1 + A.1.2)*
+____
+
+|*66.000* |*66.000* a|
+____
+*90.000*
+____
+
+a|
+____
+*132.000*
+____
+
+a|
+____
+*132.000*
+____
+
+a|
+____
+*162.000*
+____
+
+a|
+____
+*168.000*
+____
+
+a|
+____
+*174.000*
+____
+
+|*180.000* a|
+____
+*186.000*
+____
+
+a|
+____
+*192.000*
+____
+
+a|
+____
+*204.000*
+____
+
+a|
+____
+*1.752.000*
+____
+
+a|
+____
+A.2) OTROS INGRESOS
+
+Aportes de Capital
+
+Ingresos por nuevos cr├®ditos Ingresos por venta de Bs. de Uso Ingresos
+por venta de otros bienes Reintegro por exortaciones, etc.
+____
+
+|126.000 | | | | a|
+____
+30.000
+____
+
+| | | | | | a|
+____
+156.000
+____
+
+a|
+____
+*TOTAL OTROS INGRESOS*
+____
+
+a|
+____
+126.000
+____
+
+| | | | a|
+____
+30.000
+____
+
+| | | | | | a|
+____
+156.000
+____
+
+|===
+
+[upperroman, start=2]
+. {blank}
++
+____
+*BASE DE DATOS DEL FLUJO DE FONDOS.*
+____
+
+____
+FIRMA: PAST S.A
+____
+
+[upperalpha, start=2]
+. {blank}
++
+____
+*EGRESOS*
+____
+
+____
+MES 1
+
+MES 2
+
+MES 3
+
+MES 4
+
+MES 5
+
+MES 6
+
+MES 7
+
+MES 8
+
+MES 9
+
+MES 10
+
+MES 11
+
+MES 12
+
+TOTAL
+____
+
+[arabic]
+. {blank}
++
+____
+COSTOS OPERATIVOS
+____
+
+____
+B1.1) *COSTO DE PRODUCCION*
+
+(neto de IVA y amortizaci├│n)
+
+71.576,19 45.021,87 45.021,87
+
+56.201,09
+
+75.764,70 80.723,47 87.062,34 89.758,02 92.453,69 101.096,87 110.136,55
+126.674,31
+
+981.490,97
+
+B1.1.1) Materia Prima
+
+46.364,00
+
+22.897,88 22.897,88
+
+31.224,38
+
+45.795,75 43.615,00 53.527,50
+
+5.510,00
+
+57.492,50 65.422,50
+
+73.749,00
+
+82.472,00
+
+600.968,39
+
+*Total Costo de Mat.Prima 46.364,00*
+
+*22.897,88 22.897,88 31.224,38 45.795,75 43.615,0053.527,5055. 510,00
+57.492,50 65.422,50 73.749,00 82.472,00 600.968,39*
+____
+
+[cols=",,,,,,,,,,,,",options="header",]
+|===
+a|
+____
+B1.1.2) Mano de Obra
+____
+
+| | | | | | | | | | | |
+a|
+____
+{empty}a) Cantidad de Personal
+____
+
+|18 |18 |18 |18 |18 |18 |18 |18 |18 |18 |18 |18
+
+a|
+____
+{empty}b) Sueldo Promedio
+____
+
+|683,86 |683,86 |683,86 |683,86 |683,86 |1.025,79 |683,86 |683,86
+|683,86 |683,86 |683,86 |1.025,79
+
+a|
+____
+{empty}c) Cargas sociales promedio
+____
+
+|1.969,52 |1.969,52 |1.969,52 |1.969,52 |1.969,52 |2.954,28 |1.969,52
+|1.969,52 |1.969,52 |1.969,52 |1.969,52 |2.954,28
+|===
+
+____
+**Total Costo Mano Obra (a**x*b+c) 14.279,04 14.279,04 14.279,04
+14.279,04 14.279,04 21.418,5614.279,04 14.279,0414.279,04 14.279,04
+14.279,04 21.380,62 185.589,58*
+
+B1.1.3) Gastos de fabricaci├│n
+
+*Total Gastos de fabricaci├│n* 10.933,15
+
+7.844,95
+
+7.844,95 10.697,67
+
+15.689,91
+
+15.689,91 19.255,80 19.968,98 20.682,15 21.395,33 22.108,51
+
+22.821,69
+
+194.933,00
+
+B1.2) Gastos Comercializaci├│n
+
+38.653,85
+
+25.769,23 25.769,23 25.769,23
+
+25.769,23
+
+25.769,23 25.769,23 25.769,23 25.769,23 25.769,23 25.769,23
+
+25.769,23
+
+335.000,00
+
+B1.3) Gastos administraci├│n
+
+17.109,23
+
+11.406,15
+
+11.406,15 11.406,15
+
+11.406,15
+
+11.406,15 11.406,15 11.406,15 11.406,15 11.406,15 11.406,15
+
+11.406,15
+
+148.279,96
+
+*TOTAL COSTOS OPERATIVOS* 127.339,27
+
+82.197,25
+
+82.197,25
+
+93.376,47112.940,08
+
+117.898,85 142.825,42 126.933,40129.629,07 138.272.25 147.311,93
+163.849,69
+
+1.464,770,93
+____
+
+[cols=",,,,,,,,,,,,",options="header",]
+|===
+a|
+____
+B2) Serv.deuda bcaria.y/o fciera.
+____
+
+| | | | | | | | | | | |
+a|
+____
+Amortizaci├│n
+____
+
+| | | | | |33.966,00 | | | | |33.966,00 |67.932,00
+a|
+____
+Inter├®s
+____
+
+|3.900,00 a|
+____
+5.100,00
+____
+
+a|
+____
+5.100,00
+____
+
+a|
+____
+5.100,00
+____
+
+a|
+____
+5.100,00
+____
+
+|5.100,00 a|
+____
+5.500,00 5.100,00
+____
+
+|5.000,00 a|
+____
+5.000,00
+____
+
+|5.000,00 |5.000,00 |60.000,00
+a|
+____
+B3) Impuestos
+____
+
+|6.000,00 a|
+____
+6.000,00
+____
+
+a|
+____
+6.000,00
+____
+
+a|
+____
+6.000,00
+____
+
+a|
+____
+6.000,00
+____
+
+| | | | | | |
+a|
+____
+B4) Otros egresos
+____
+
+| | | | | | | | | | | |
+a|
+____
+Inversiones
+____
+
+|600.000,00 | | | | | | | | | | |
+a|
+____
+Cancel.moratorias fisco sociales
+____
+
+| | | | | | | | | | | |
+a|
+____
+Cancel.otras deudas
+____
+
+| | | | | | | | | | | |
+a|
+____
+Pago Dividendos, Honorarios, etc.
+____
+
+| | | | | | | |6.000,00 a|
+____
+30.000,00
+____
+
+|30.000,00 | |66.000,00
+|===
+
+[cols=",,,,,",options="header",]
+|===
+a|
+____
+*BALANCE PROYECTADO*
+
+Ejercicio del 01/01/2002
+____
+
+| | | | |
+a|
+____
+*ACTIVO*
+____
+
+| | a|
+____
+*PASIVO*
+____
+
+| |
+a|
+____
+Activo Corriente Caja y Bancos
+____
+
+|22.897,10 | a|
+____
+Pasivo Corriente Proveedores
+____
+
+|94.970,65 |
+| | | a|
+____
+Prest.accionistas
+____
+
+|90.000,00 |
+a|
+____
+Cuentas a cobrar
+____
+
+|204.000,00 | a|
+____
+Impuestos
+____
+
+|29.423,74 |
+| | | a|
+____
+Otros Pr├®stamos
+____
+
+|67.932,00 |
+a|
+____
+Bienes de cambio
+
+Mat. Primas
+____
+
+|20.300,80 | a|
+____
+Pr├®stamo BNA
+
+*Total Pasivo Corriente*
+____
+
+|104.725,44 |387.051,83
+a|
+____
+Prod. determinados
+____
+
+|55.853,06 | a|
+____
+Pasivo No Corriente
+____
+
+| |
+a|
+____
+*Total Activo Corriente*
+____
+
+| a|
+____
+303.050,96
+____
+
+a|
+____
+Otros Pr├®stamos
+____
+
+|34.136,00 |
+a|
+____
+Activo No Corriente
+____
+
+| | a|
+____
+Pr├®stamo BNA
+
+*Total Pasivo No Corriente*
+____
+
+|322.910,92 |357.046,92
+a|
+____
+Bienes de Uso
+____
+
+|1.380.000,00 | | | |
+a|
+____
+Amortiz.Acumulada
+____
+
+|-408.600,00 | | |Total Pasivo |744.098,75
+a|
+____
+*Total Activo No Corriente*
+____
+
+| a|
+____
+971.400,00
+____
+
+a|
+____
+*PATRIMONIO NETO*
+
+Capital
+____
+
+|300.000,00 |
+| | | a|
+____
+Result no asignados
+____
+
+|189.317,31 |
+a|
+____
+*Total Activo*
+____
+
+|1.274.450,96 | a|
+____
+Result ejercicio
+
+*Total Patrimonio Neto*
+____
+
+|41.034,90 |530.352,21
+|===
+
+____
+*Total Pasivo + Patrimonio Neto* 1.274.450,96
+____
+
+[cols=",",options="header",]
+|===
+a|
+____
+*CUADRO DE RESULTADOS PROYECTADO*
+
+EJERCICIO INICIADO EL 01/01/2002 Y FINALIZADO EL 31/12/2002
+____
+
+|
+a|
+____
+VENTAS
+____
+
+|1.752.000,00
+a|
+____
+Menos
+
+Costo de mercader├¡a vendida
+____
+
+|-1.137.649,10
+a|
+____
+Utilidad Bruta
+____
+
+|614.350,90
+|===
+
+____
+Menos
+
+Gastos de Administraci├│n -148.280,00
+
+Gastos de Comercializaci├│n -335.000,00
+
+Gastos Financieros (1) +++- 90.036,00+++
+____
+
+- 573.316,00
+
+____
+M├ís/Menos
+____
+
+Otros Ingresos o gastos 0,00
+
+*Resultado Neto 41.034,90*
+
+[arabic]
+. {blank}
++
+____
+Incluye intereses del cr├®dito
+____
+
+*_49_*
+
+____
+*BASES DEL PRESUPUESTO PARA SER TENIDAS EN CUENTA EN LAS PROYECCIONES*
+
+Inversi├│n neta de la empresa $ 600.000,00
+
+Cr├®dito solicitado $ 480.000,00
+
+Objeto Adquisici├│n de equipamiento nacional
+____
+
+[cols=",,,",options="header",]
+|===
+a|
+____
+Ventas Proyectadas
+____
+
+a|
+____
+Precio promedio
+____
+
+a|
+____
+Incremento anual
+____
+
+a|
+____
+Incremento acumulado
+____
+
+a|
+____
+Ejercicio actual 1.250.000 kilos
+____
+
+a|
+____
+1,16 $/kg
+____
+
+| |
+a|
+____
+A├▒o 1 1.460.000 kilos
+____
+
+a|
+____
+1.20 $/kg
+____
+
+a|
+____
+0,17
+____
+
+a|
+____
+0,17
+____
+
+a|
+____
+A├▒o 2 1.825.000 kilos
+____
+
+a|
+____
+1.20 $/kg
+____
+
+a|
+____
+0,25
+____
+
+a|
+____
+-0,20
+____
+
+a|
+____
+A├▒o 3 2.280.000 kilos
+____
+
+a|
+____
+1.20 $/kg
+____
+
+a|
+____
+0,25
+____
+
+a|
+____
+0,00
+____
+
+a|
+____
+A├▒o 4 2.635.000 kilos
+____
+
+a|
+____
+1.20 $/kg
+____
+
+a|
+____
+0,16
+____
+
+a|
+____
+0,16
+____
+
+a|
+____
+A├▒o 5 2.635.000 kilos
+____
+
+a|
+____
+1.20 $/kg
+____
+
+a|
+____
+0,00
+____
+
+a|
+____
+0,16
+____
+
+|===
+
+____
+El precio puede aumentar a $ 1,30 por kilo, dependiendo de la situaci├│n
+del mercado. Producci├│n relacionada con el mercado
+
+Capacidad normal pr├íctica de producci├│n anual 3.000.000 kgs.
+____
+
+Sobre una demanda de 257.000.000 kg/a├▒o: 2.635.000 kg/a├▒o producci├│n
+
+1,03% del mercado a captar
+
+____
+_Si relacionamos con la capacidad normal pr├íctica de planta tenemos:_
+
+3.000.000 kg/a├▒o capacidad normal 257.000.000 kg/a├▒o demanda total 1,17%
+del mercado a captar
+
+*COSTOS DE PRODUCCI├ôN*
+
+Materia Prima Directa (por kg. de producto)
+____
+
+Peso (en grs.) Precio Unitario Costo Total
+
+[cols=",,,",options="header",]
+|===
+a|
+____
+harina
+____
+
+|590 a|
+____
+0,2500
+____
+
+a|
+____
+0,1475
+____
+
+a|
+____
+semol├¡n
+____
+
+|220 a|
+____
+0,4500
+____
+
+a|
+____
+0,0990
+____
+
+a|
+____
+huevos
+____
+
+|150 a|
+____
+0,0010
+____
+
+a|
+____
+0,1500
+____
+
+a|
+____
+agua
+____
+
+|40 a|
+____
+0,00
+____
+
+a|
+____
+0,00
+____
+
+a|
+____
+Total
+____
+
+|1.000 | a|
+____
+0,3965
+____
+
+|===
+
+____
+Mano de obra directa
+
+Seg├║n datos incluidos en planillas adjuntas de acuerdo a la siguiente
+distribuci├│n:
+____
+
+[cols=",,,",options="header",]
+|===
+a|
+____
+Cantidad
+____
+
+a|
+____
+Tarea
+____
+
+a|
+____
+Salario Unitario $/mes
+____
+
+a|
+____
+Salario Total $/mes
+____
+
+|1 a|
+____
+T├®cnico de laboratorio
+____
+
+a|
+____
+2.350,00
+____
+
+a|
+____
+2.350,00
+____
+
+|2 a|
+____
+Oficiales m├íquinas
+____
+
+a|
+____
+518,44
+____
+
+a|
+____
+1.036,88
+____
+
+a|
+____
+11
+____
+
+a|
+____
+Ayudantes
+____
+
+a|
+____
+380,32
+____
+
+a|
+____
+4.183,52
+____
+
+|===
+
+Movimiento materiales
+
+____
+1 Encargado 1.500,00 1.500,00
+
+3 Ayudantes 380,32 1.140,96
+
+18 personas 10.211,36 (bruto)
+____
+
+Matriz de costos 0,13201505 1.348,05
+
+Otros beneficios 750,10
+
+Subtotal 12.309,51
+
+Cargas Sociales 0,16 1.969,52
+
+____
+_Total mes_ 14.279,04
+
+*_51_*
+____
+
+[cols=",,",options="header",]
+|===
+a|
+____
+Matriz de Costos
+
+D├¡as a├▒o 365
+
+D├¡as no trabajados en 52 semanas 52
+____
+
+| |
+a|
+____
+_Neto_ 313
+____
+
+| |
+
+a|
+____
+Licencias ordinarias 21
+____
+
+a|
+____
+0,075268817
+____
+
+|
+
+a|
+____
+Licencias especiales 7
+____
+
+a|
+____
+0,025089606
+____
+
+|
+
+a|
+____
+Feriados pagos 6
+
+Subtotal licencias 34
+
+_Neto_ 279
+____
+
+a|
+____
+0,021505376
+
+0,121863799
+____
+
+|
+
+a|
+____
+Aguinaldo 0,0833
+____
+
+| |
+
+a|
+____
+Total
+____
+
+a|
+____
+0,13201505
+____
+
+|
+
+a|
+____
+Costos Comunes de Fabricaci├│n/Carga Fabril
+____
+
+| |
+
+a|
+____
+Tasa predeterminada aplicable primer a├▒o Total de gastos estimados
+primer a├▒o Contiene
+
+Personal de direcci├│n y supervisi├│n
+____
+
+a|
+____
+0,259
+
+8 personas
+____
+
+a|
+____
+388.600.00
+____
+
+a|
+____
+Gastos de Administraci├│n
+____
+
+| |
+
+a|
+____
+Sueldos administraci├│n
+____
+
+a|
+____
+70.000,00
+____
+
+|
+
+a|
+____
+Suministros administraci├│n
+____
+
+a|
+____
+39.000,00
+____
+
+|
+
+a|
+____
+Impuestos varios
+____
+
+a|
+____
+27.850,50
+____
+
+|
+
+a|
+____
+Seguros
+
+Total
+____
+
+a|
+____
+13.000,00
+____
+
+a|
+____
+149.850,50
+____
+
+a|
+____
+Incluye personal de direcci├│n y empleados
+____
+
+| |5 personas
+
+a|
+____
+Gastos de Comercializaci├│n
+____
+
+| |
+
+a|
+____
+Comisiones
+____
+
+a|
+____
+90.000,00
+____
+
+|
+
+a|
+____
+Sueldos y honorarios
+____
+
+a|
+____
+135.000,00
+____
+
+|
+
+a|
+____
+Suministros ventas
+
+Total
+____
+
+a|
+____
+110.000,00
+____
+
+a|
+____
+335.000,00
+____
+
+a|
+____
+Incluye personal de direcci├│n y empleados
+____
+
+| |6 personas
+
+a|
+____
+Gastos Financieros Gastos e Intereses
+____
+
+a|
+____
+60.000,00
+____
+
+|
+|===
+
+____
+60.000,00
+
+Los cargos financieros correspondientes al pr├®stamo solicitado, est├ín
+incluidos en el Flujo de Fondos.
+
+Total de Personas Ocupadas 37 personas
+
+Condiciones de compra y venta de la empresa, pago a 30 d├¡as de fecha de
+entrega.
+
+_Nota:_ para simplificar los c├ílculos, en el presente ejemplo no se ha
+previsto el retiro de utilidades durante el per├¡odo, ni el efecto del
+Impuesto al Valor Agregado, que necesariamente deber├í ser considerado en
+el Plan de Negocios.
+
+*_52_*
+
+*10.-INFORMACI├ôN ADICIONAL*
+
+Si usted lo considera conveniente, puede agregar a continuaci├│n ├│
+adjuntar como Anexos, la informaci├│n que usted considere relevante
+relacionada con su empresa y el Plan de Negocios tal como la de car├ícter
+t├®cnico, promocional, econ├│mica fnanciera adicional, entre otras.
+____
+
+*_53_*
+
+____
+*BIBLIOGRAF├ìA*
+____
+
+* {blank}
++
+____
+*Manual para escribir un Plan de Negocios,* Tuija Marcito, Depto.de
+Cooperaci├│n Internacional para el Desarrollo, Ministerio de Relaciones
+Exteriores de Finlandia.
+____
+* {blank}
++
+____
+*Plan de Negocios de Exportaci├│n,* Banco Mexicano de Comercio Exterior
+(BANCOMEXT), M├®xico DF, M├®xico
+____
+* {blank}
++
+____
+*COMFAR III Business Plan,* Programa, ONUDI, Organizaci├│n de las
+Naciones Unidas para el Desarrollo Industrial, Viena, Austria.
+____
+* {blank}
++
+____
+*Interactive Business Planner,* Canada Business Service Center, Canad├í.
+____
+* {blank}
++
+____
+*C├│mo armar un Plan de Negocios,* Danila Terragno y Mar├¡a Laura Lecuona,
+Dinero, Caracas, Venezuela.
+____
+* {blank}
++
+____
+*Business Planning,* Center for Business Planning, Business Resource
+Software, Inc, Austin, Texas, USA.
+____
+* {blank}
++
+____
+*Plan de Negocios,* Forum de Negocios de Internet y de Tecnolog├¡a de la
+Informaci├│n
+____
+* {blank}
++
+____
+*C├│mo realizar un Plan de Negocio de Servicios On-line,* Mireia Mir,
+Grupo Intercom, Barcelona, Espa├▒a
+____
+* {blank}
++
+____
+*Plan de Empresa,* Gui├│n De Desarrollo, Pymes on line, Centro de
+Promoci├│n y Desarrollo Empresarial ÔÇ£La TrilladoraÔÇØ, Espa├▒a
+____
+* {blank}
++
+____
+*Gu├¡a sugerida de un Plan de Negocios,* Universidad de Monterrey,
+Divisi├│n de Estudios Profesionales, Monterrey, Nuevo Le├│n, M├®xico.
+____
+* {blank}
++
+____
+*The Business Plan,* SBA, Small Business Administration, EE.UU.
+____
+* {blank}
++
+____
+*Business Planning Software,* PlanWrite, Investech Limited, Dublin,
+Irlanda.
+____
+* {blank}
++
+____
+*Creating an Effective Business Plan,* American Express Small Business
+Services, USA.
+____
+* {blank}
++
+____
+*Business Plan Pro,* Palo Alto Software,Inc, Cal., EE.UU.
+____
+
+*_55_*
+
+____
+Impreso en los Talleres Gr├íficos del Banco de la Naci├│n Argentina
+____
+ impreso en la concah de tu hermana

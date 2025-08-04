@@ -1,0 +1,10 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* casco aplicador hecho de silicona
+* No debe perder liquido
+* Debe ser capaz de soportar la presion del liquido
+* Tiene que tener una cubiera aislante ajustable que permita un buen contacto con el cuero cabelludo
+

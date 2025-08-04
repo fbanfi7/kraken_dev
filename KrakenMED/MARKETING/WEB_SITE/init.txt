@@ -1,0 +1,10 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* Esta version contara con el logo KrakenMED y un cartel que diga "PAGINA EN CONSTRUCCION" o algo que indique que esta en CONSTRUCCION
+* Inicialmente constara con las secciones:
+NOSOTROS Contendra foto del equipo emprendedor, y sus puestos
+QUE HACEMOS Pequeño resumen del proyecto 
+CONTACTO numeros de telefono, mails, redes sociales de los co fundadores

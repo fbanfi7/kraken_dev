@@ -1,0 +1,10 @@
+
+|===
+|Proveedor |Precision |Precio |Rango |Otros
+
+| https://www.lakeshore.com/products/categories/overview/temperature-products/cryogenic-temperature-sensors/platinum
+|+/-0.2
+|
+|14 a 843 °K
+|No encontre proveedor en Argentina, segun la pagina no estan aceptando ordenes por web site
+|===

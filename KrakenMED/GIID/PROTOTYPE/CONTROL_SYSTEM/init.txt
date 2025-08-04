@@ -1,0 +1,7 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* El sistema de control debe ser capaz de abrir el circuito del compresor cuando la temperatura del fluido de trabajo alcance -15°C
+* Con una histeresis de 2°C

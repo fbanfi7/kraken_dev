@@ -1,0 +1,38 @@
+# Environment files
+.env
+.env.local
+.env.prod
+.env.production
+.env.staging
+.env.test
+
+# Keep example file in version control
+!.env.example
+
+# Docker volumes
+postgres_data/
+letsencrypt_data/
+nginx_logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp

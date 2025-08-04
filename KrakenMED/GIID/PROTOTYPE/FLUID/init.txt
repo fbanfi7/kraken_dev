@@ -1,0 +1,10 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* Se probaran 3 diluciones de glicol y agua
+20/80
+30/70
+50/50
+Se seleccionara la primera que no se congele a -15°C

@@ -1,0 +1,9 @@
+|===
+|Proveedor |Precision |Precio |Rango |Otros
+
+| https://articulo.mercadolibre.com.ar/MLA-736141786-sensor-lm35-temperatura-lineal-lm-35-cable-arduino-_JM#position=2&search_layout=grid&type=item&tracking_id=1b662b9f-d5d2-422a-a3d3-821442d14d87
+|+/- 0.5 °C
+|$557
+|-55 a 150
+|En la publicacion dice que a precision es de 0.5°C, pero en el data sheet dice que es de 0.25°C
+|===

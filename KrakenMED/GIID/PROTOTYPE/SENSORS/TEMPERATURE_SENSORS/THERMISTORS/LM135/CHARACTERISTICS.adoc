@@ -1,0 +1,9 @@
+|===
+|Proveedor |Precision |Precio |Rango |Otros
+
+| https://www.ti.com/store/ti/en/p/product/?p=LM135AH/NOPB&HQS=ECM-tistore-invf-alldatasheets-invf-store-null-wwe&DCM=yes
+|+/- 1 °C
+|USD 18
+|-55 a 150
+|Muy mala precision
+|===

@@ -1,0 +1,80 @@
+services:
+  backend:
+    build: ./backend
+    container_name: medical_scribe_api
+    env_file:
+      - .env.local
+    environment:
+      - ENVIRONMENT=development
+      - DEBUG=true
+    volumes:
+      - ./backend:/app
+      - uploaded_audio_data:${UPLOAD_FOLDER:-/app/uploaded_audio}
+      - notes_data:${NOTES_FOLDER:-/app/generated_notes}
+    networks:
+      medic_scribe_network:
+        ipv4_address: 172.20.0.10
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8000/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: medical_scribe_frontend
+    env_file:
+      - .env.local
+    environment:
+      - NODE_ENV=development
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/dist
+    networks:
+      medic_scribe_network:
+        ipv4_address: 172.20.0.20
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:80" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  nginx:
+    image: nginx:alpine
+    container_name: medic_scribe_nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.local.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - backend
+      - frontend
+    networks:
+      medic_scribe_network:
+        ipv4_address: 172.20.0.30
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:80/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+
+networks:
+  medic_scribe_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
+          gateway: 172.20.0.1
+
+volumes:
+  uploaded_audio_data:
+    driver: local
+  notes_data:
+    driver: local

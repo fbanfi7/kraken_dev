@@ -1,0 +1,9 @@
+=====         KRAKENMED
+KrakenMed es una STARTUP fundada por Tomas, Franco y Javier, que desarrolla y pretende comercializar dispositivos médicos avocados a las crioterapias y al diagnostico utilizando intercambio de calor, brindando soluciones seguras, eficaces y adaptadas a las necesidades de nuestros clientes y usuarios. 
+En este momento nos encontramos desarrollando nuestro primer dispositivo, un sistema computarizado de enfriamiento capilar capaz de prevenir la alopecia inducida por la quimioterapia, minimizando el daño y las sensaciones desagradables producidas por la aplicación de frío en el cuero cabelludo, mejorando la adhesión del paciente a la terapia.
+El dispositivo es una unidad de refrigeración compacta y móvil, por donde circula un refrigerante líquido a baja presión, a través de un casco especial que se coloca en la cabeza del paciente. La circulación del refrigerante a través del casco extrae el calor del cuero cabelludo manteniendo un nivel óptimo de temperatura causando la constricción de los vasos sanguíneos y la disminución del metabolismo celular, minimizando la absorción de droga por el folículo piloso.
+
+==== Organizacion Documental 
+
+Aca va una imagen de el organigrama +
+y un aexplicacino de cada division +

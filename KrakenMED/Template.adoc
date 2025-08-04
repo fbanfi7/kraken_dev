@@ -1,0 +1,46 @@
+= Titulo del documento
+
+===== TIPO DE PROCEDIMIENTO 
+
+.contenido
+|===
+|Descripcion | detalle | si es | talvez 
+
+|Benfi es punto ?
+|si
+|seno
+|seno
+
+
+|pulpo es puto ?
+|si
+|si
+|seno
+
+
+|pulpo es puto ?
+|si
+|si
+|seno
+
+
+
+
+
+
+|pulpo es puto ?
+|si
+|si
+|seno
+|===
+
+.ejemplo
+[width="50%",cols=">s,^m,e",frame="topbot",options="header,footer"]
+|==========================
+| numeros  2+|Columns 2 and 3
+|1       |Item 1  |Item 1
+|2       |Item 2  |Item 2
+|3       |Item 3 |Item 3
+|4       |Item 4  |Item 4
+|footer 1|footer 2|footer 3
+|==========================

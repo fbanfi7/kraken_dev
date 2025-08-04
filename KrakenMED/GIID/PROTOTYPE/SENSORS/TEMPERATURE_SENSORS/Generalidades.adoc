@@ -1,0 +1,48 @@
+En este archivo van a aparecer los tipos de sensores de temperaturas, su modo de funcionamientos y otras generalidades.
+
+== Clasificacion
+
+Los sensores de temperatura principalmente de pueden agrupar en 4 tipos:
+
+* Termistores: Los termistores o resistencias térmicamente sensibles son los que cambian su apariencia física cuando se someten a cambios de temperatura. Los termistores están hechos de material cerámico como óxidos de níquel, manganeso o cobalto recubiertos de vidrio lo que les permite deformarse fácilmente. Se pueden dividir en:
+** NTC (negative temperature coefficient): su resistencia disminuye cuando aumenta la temperatura
+** PTC (postive temperature coefficient): su resistencia incremente en funcion de la temperatura.
+* RTD (resistance temperature detector): los RTD son sensores de temperatura precisos que se componen de metales conductores de alta pureza como platino, cobre o níquel enrollados en una bobina. La resistencia eléctrica de un RTD cambia de manera similar a la de un termistor.
+* Termocuplas: una termocupla generalmente consta de dos uniones de metales diferentes, como cobre y constantan, que se sueldan o engarzan entre sí. Una de estas uniones, conocida como unión fría, se mantiene a una temperatura específica, mientras que la otra es la unión de medición, conocida como unión caliente.  Al ser sometido a temperatura, se desarrolla una caída de tensión en la unión.
+
+== Comparacion
+
+.Comparacion entre los diferentes sensores
+|===
+| |Termocupla |RTD |Termistor
+
+|Precision
+|Medio
+|Alta
+|Baja/media
+
+|Resolucion
+|Baja
+|Media
+|Alta
+
+|Precio
+|Bajo
+|Medio/Alto
+|Bajo
+
+|Rango (°C)
+|-200 a 1200
+|-200 a 600
+|-80 a 150
+
+|Robustez
+|Alta
+|Alta
+|Baja
+|===
+
+
+Resolution is the number of pieces or parts that the output or displayed reading from a sensor or measuring instrument can be broken down into without any instability in the signal or reading.
+
+Accuracy tells you how closely the output or displayed reading from a sensor or measuring instrument will match the ‘true’ value.

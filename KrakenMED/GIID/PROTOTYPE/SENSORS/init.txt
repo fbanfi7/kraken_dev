@@ -1,0 +1,8 @@
+En la carpeta sensors, se va a poner todos los tipos de sensores, caracteristicas mas relevantes (precio, precision, circuito asociado, proveedor) y sus hojas de datos
+
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* Solo constara de un sensor conectado a un arduino del cual se graficaran los datos en Matlab (lo que nos dio Tito)

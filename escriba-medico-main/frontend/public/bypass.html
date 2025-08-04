@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bypass local demo</title>
+</head>
+<body>
+  <h2>Bypass login local</h2>
+  <p>Esto simula estar logueado y redirige a la app principal.</p>
+  <button onclick="loginBypass()">Entrar al demo</button>
+
+  <script>
+    function loginBypass() {
+      // 1. Guardamos un token fake en localStorage
+      localStorage.setItem('sb-access-token', 'demo');
+      // 2. Redirigimos al index
+      window.location.href = '/';
+    }
+  </script>
+</body>
+</html>

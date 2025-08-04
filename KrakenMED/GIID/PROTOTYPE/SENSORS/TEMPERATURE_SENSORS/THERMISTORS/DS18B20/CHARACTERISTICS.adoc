@@ -1,0 +1,7 @@
+
+|===
+|Proveedor |Precision |Precio | Rango
+|https://articulo.mercadolibre.com.ar/MLA-903024959-ds18b20-sensor-digital-temperatura-cable-sumergible-arduino-_JM#position=3&search_layout=grid&type=item&tracking_id=f95312a4-3f01-413d-8988-d1ac88685fea
+|+/- 0.5 °C
+|$365
+|===

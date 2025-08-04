@@ -1,0 +1,6 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* El chiller tiene que ser capaz de llevar la temperatura del fluido de trabajo (aprox 3 litros) desde la temp ambiente hasta -15°C en menos de 20 minutos. En ese momento el sistema de control abrira el circuito del compresor. Este volvera a funcionar cuando el fluido de trabajo alcance los -13°C

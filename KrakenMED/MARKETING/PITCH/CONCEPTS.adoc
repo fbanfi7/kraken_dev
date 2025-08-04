@@ -1,0 +1,13 @@
+
+
+
+
+Lista de conceptos analizados para encontrar relevancia/conveniencia en los pitch.
+En rojo conceptos a evitar, en verde conceptos a utilizar. 
+
+[red]#Perfusión, Vasoconstricción, Citotóxico, Droga, Quimioterapia, Intercambio calórico#
+
+[green]#Quimio, Folículo piloso, Terapia con frío, Enfriar, Metástasis#
+
+
+

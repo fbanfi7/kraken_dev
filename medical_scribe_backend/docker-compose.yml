@@ -1,0 +1,38 @@
+services:
+  medical_scribe_api:
+    build: . # Busca el Dockerfile en el directorio actual
+    container_name: medical_scribe_api # Nombre del contenedor
+    restart: always # Reinicia automáticamente si falla
+    env_file:
+      - ./.env # Carga las variables de entorno desde el archivo .env
+    # Ya NO se mapea el puerto 8000 aquí, Nginx será el punto de entrada externo
+    volumes:
+      # Monta un volumen para persistir las notas generadas
+      - notes_data:/app/generated_notes
+      # También puedes crear un volumen para los archivos de audio subidos temporalmente
+      - uploaded_audio_data:/app/uploaded_audio
+
+  nginx:
+    image: nginx:alpine # Usa la imagen oficial de Nginx Alpine
+    container_name: medical_scribe_nginx # Nombre del contenedor Nginx
+    restart: always # Reinicia automáticamente si falla
+    ports:
+      - "80:80"   # Mapea el puerto 80 del host al puerto 80 del contenedor Nginx
+      - "443:443" # Mapea el puerto 443 del host al puerto 443 del contenedor Nginx (para HTTPS)
+    volumes:
+      - ./nginx:/etc/nginx/conf.d:ro # Monta el directorio de configuración local en el contenedor (sólo lectura)
+      - /etc/letsencrypt:/etc/letsencrypt:ro  
+# Estos volúmenes son para Certbot. Son necesarios si ejecutas Certbot en el host
+      # y quieres que Nginx en el contenedor use los certificados generados por Certbot.
+      # Los definiremos abajo.
+      # Este volumen es para el desafío de Certbot (si usas autenticación webroot)
+    depends_on:
+      - medical_scribe_api # Nginx necesita que la API de FastAPI esté levantada
+
+volumes:
+  notes_data:
+  uploaded_audio_data:
+  certbot_etc: # Volumen para los certificados de Let's Encrypt
+  certbot_var: # Volumen para los archivos de trabajo de Certbot
+  webroot_data: # Volumen para los archivos de desafío de Certbot (si se usa webroot)
+

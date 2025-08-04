@@ -1,0 +1,25 @@
+V0.1
+
+Autor: Tomas Rodriguez
+
+Fecha de modificacion: 18/11/2021
+
+Modificado por: Tomas Rodriguez
+
+
+
+Puede que Reta arranque después de la firma del convenio.
+El equipo es Jose Francisco, Luchi y Niki que va a hacer la interfaz gráfica. La parte normativa de la interfaz va a estar Peña y Cerrudo.
+
+La idea es armar un banco de prueba para probar distintos compresores e intercambiadores de calor y a partir de eso extraer requerimientos. Tenemos una lista de requerimientos iniciales pero no conocemos por ejemplo qué potencia debería tener el compresor ni la tecnología del intercambiador.
+
+
+
+NECESIDADES:
+
+* Mecanismo para hacerlo modular, sin tener  que soldar y reponer gas para cambiar los componentes de la unidad
+* Crear una bateria de intercambiadores y medir su eficiencia
+* Crear una estacion de monitoreo para sensar y monitorizar temperatura, presión y tiempo
+* Probar el fluido de trabajo
+* Refrigerante r-134a 
+

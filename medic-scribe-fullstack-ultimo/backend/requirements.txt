@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn[standard]
+python-dotenv
+openai
+deepgram-sdk
+python-multipart
+websockets

@@ -1,0 +1,183 @@
+= ANTEPROYECTO
+
+Tomas Rodriguez <tomasrodriguez95@hotmail.com.ar>
+
+Javier Ruiz <javier.ruiz000@>
+
+Version 1.1, 3.10.2020
+
+== 1. Titulo
+
+Diseño, desarrollo y validación preliminar del prototipo del módulo de control de temperatura y del intercambiador de calor de un dispositivo de enfriamiento del cuero cabelludo.
+
+== 2. Descripción
+
+// Descripcion 
+La pérdida de cabello inducida por la quimioterapia es el efecto secundario más traumático en la lucha contra el cáncer, siendo incluso una de las consideraciones para negar el tratamiento. 
+
+//problema
+La alopecia inducida por quimioterapia (CIA) es una forma adquirida de pérdida de cabello que afecta la calidad de vida del paciente, afecta negativamente la imagen corporal, la sexualidad y la autoestima, y ​​proporciona una fuerte indicación del estado de salud del individuo, y la mayoría de las personas lo asocian con cáncer.
+
+// etiologia 
+Los medicamentos de quimioterapia como Altretamina, Cisplatino, Ciclofosfamida, Docetaxel, Doxorrubicina, Epirrubicina, Fluorouracilo, Gemcabeno,Idarrubicina, Ifosfamida, Paclitaxel, Vincristina, Vinorelbina basan su efectividad en el tratamiento del cáncer en su capacidad de atacar células malignas en proceso mitotico aumentado y descontrolado. Estos también tienden a atacar alrededor del 85 al 90% de la celula de foliculo piloso (FP).
+
+// fisiopatologia
+La morfogénesis del FP se produce de forma prenatal, y el FP comienza un ciclo posnatal de por vida a través de tres fases distintas. Después de la morfogénesis, este ciclo del cabello comienza con una fase de regresión (catágena), seguida por un período de relativa quiescencia (telógeno) y finalmente una larga fase de crecimiento (anágena).
+
+El folículo piloso es particularmente sensible a la apoptosis inducida por quimioterapia porque >80% de los foliculos pilosos del cuero cabelludo tienen una fase anágena en cualquier momento.
+
+// explica la solucion existente la tecnica
+El enfriamiento del cuero cabelludo tiene como objetivo prevenir la alopecia
+inducida por quimioterapia al causar la constricción de los vasos sanguíneos en el cuero cabelludo, reduciendo así la cantidad de medicamentos de quimioterapia
+administrados a los folículos capilares. 
+También hay una reducción en la tasa
+metabólica local, que reduce la absorción celular de la droga en el folículo piloso.
+
+// Alcance del problema 
+En Argentina, segun el Instituto Nacional del Cáncer, el cáncer de mayor incidencia se presenta en mujeres y es el de mama, con una tasa de 73 casos por cada 100.000 mujeres. Luego, lo siguen los tumores de próstata (42 p/100.000 varones) y colorrectal en hombres (31 p/100.000 varones). Estos 3 tipos de cáncer representan el 39.1% de todos los casos registrados por año, con un total de 48.850 casos. Este tratamiento es aplicable para quimioterapia contra tumores sólidos no cerebrales como los nombrados anteriormente. 
+
+// solucion actual : casquito
+Un método de enframiento del cuero cabelludo ampliamente difundido en nuestro pais, consiste en una bateria de compresas frías, compuesta por 3 packs de gel refrigerante unidos con cinta adhesiva, formando un casco previamente congelados y fijados a la cabeza con un sujetador.
+
+Algunas de las deficiencias de esta técnica son: ampollas producidas por el excesivo frio en contacto con la piel por un tiempo prolongado; ditribución de frío no uniforme debido a la mala técnica de fijación al cuero cabelludo;Sensacion de frio y dolor y sus respuestas fisiologicas aociadas.Esto atenta contra la adhesión del paciente a la terapia.
+
+// solucion propuesta
+Como respuesta a esta problemática se formula el presente proyecto que consta del diseño, desarrollo y validación primaria de los módulos de control de temperatura e intercambiador de calor de un prototipo de un sitema computarizado de enfriamiento del cuero cabelludo.
+
+== 3. Objetivo general
+
+Diseñar, desarrollar y realizar una validación preliminar del prototipo del módulo de control de temperatura y del intercambiador de calor de un dispositivo de enfriamiento del cuero cabelludo
+
+== 4. Objetivo específico
+
+* Diseñar y desarrollar un modelo de control de temperatura
+* Diseñar y desarrollar un casco intercambiador de calor
+* Seleccionar un fluido de trabajo para el sistema
+* Desarrollar un protocolo de aplicación
+* Desarrollar un protocolo de registro de datos de salida
+* Realizar la validación preliminar
+
+== 5. Alcances y limitaciones
+
+=== Alcances
+
+El alcance del proyecto comprende el diseño de un prototipo de enfriamiento capilar y la validación preliminar de los módulos de control de temperatura e intercambiador de calor. A su vez, se creará un protocolo de aplicación y se realizará el análisis de oportunidad de mercado en la provincia de Entre Ríos.
+
+
+=== Limitaciones
+
+El presente proyecto final contempla una serie de límites debido al tiempo de desarrollo y los recursos. Estos límites son ensayos clínicos sobre la efectividad del dispositivo, validación del prototipo, el desarrollo de un prototipo funcional completo, el análisis de costos de fabricación, el análisis de confiabilidad, el análisis de oportunidad de mercado nacional, el desarrollo de la carcasa del prototipo
+
+== 6. Métodos y técnicas
+
+Para determinar la temperatra optima de funcionamiento del prototipo, será fundamental la evaluacion del método y la forma en la cual se transmitira el calor a traves del intercambiador. En base a esto se elegirá un mecanismo de control acorde.
+
+Luego se desarrollará un protocolo de aplicación y un experimento el cual permita realizar la validación preliminar del prototipo.
+
+Para relevar los resultados será necesario desarrollar además un protocolo de registro de datos de salida.
+
+== 7. Material y equipo
+
+
+
+== 8. Estructura
+
+. *Índice*
+. *Resumen*
+. *Marco Teórico*
+.. Fisiologia del pelo
+.. Alopecia inducida por quimioterapia
+.. Propuesta
+. *Objetivos*
+.. Objetivo general
+.. Objetivo específico
+. *Materiales y métodos*
+.. Requisitos de diseño
+.. Desarrollo del prototipo
+... Modulo de intercambiador de calor
+... Modulo de control de temperatura
+.. Validación del prototipo
+.. Descripción de la sesión experimental
+. *Resultados*
+.. Resultados del diseño
+.. Resultados del desarrollo
+.. Resultados de la validacion preliminar
+. *Discusión*
+.. Discusión del diseño
+.. Discusión del desarrollo
+.. Discusión de la validacion preliminar
+. *Consideraciones económicas*
+. *Bibliografía*
+
+== 9. Consideraciones económicas
+
+Para el desarrollo del capítulo económico del proyecto se realizará relevamiento de todos los centros que ofrecen tratamientos de quimioterapia dentro de la provincia de Entre Ríos
+
+== 10. Programa o calendario de actividades
+
+*Actividades de realizar*
+
+image::cronograma_de_actividades.png
+
+== 11. Bibliografía inicial
+
+== 12. Directores y asesores
+
+*Director:*
+Bioing. José Alberto Biurrun Manresa
+
+*Evaluadores:*
+
+* Bioing. Rubén Acebedo
+* Bioing. María Cecilia Pérez
+* Bioing. Christian Ariel Mista
+* *Coordinador:* Bioing. Christian Ariel Mista
+
+== 13. Nombre y datos
+
+==== *Autores*:
+
+RODRÍGUEZ, Tomás Darío
+
+DNI: 39.146.648
+
+Legajo:
+
+Dirección: Los Tordos 431, Depto 5
+
+Correo electrónico: tomasrodriguez95@hotmail.com.ar
+
+Teléfono: 2262-361591
+
+==== *Director*:
+
+BIURRUN MANRESA, José Alberto
+
+DNI: 29.335.346
+
+Correo electrónico: jbiurrun@ingenieria.uner.edu.ar
+
+Teléfono: 0343-4558562
+
+==== *Evaluadores*:
+
+MISTA, Christian Ariel
+
+DNI: 30.339.662
+
+Correo electrónico: cmista@ingenieria.uner.edu.ar
+
+Teléfono: 0343-4586737
+
+
+ACEVEDO, Rubén
+
+DNI: 17.216.241
+
+Correo electrónico: racevedo@ingenieria.uner.edu.ar
+
+PÉREZ, María Cecilia
+
+DNI: 26450193
+
+Correo electrónico: mperez@ingenieria.uner.edu.ar

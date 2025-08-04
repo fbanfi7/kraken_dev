@@ -1,0 +1,67 @@
+= OKRs-TIPO DE PROCESO
+== Objetivo: 
+
+Crear procesos transversales para que puedan ser utilizados por todas las areas
+
+== Metodologia 
+Se tomaran como modelos los processo y procedimientos realizados hasta hoy y se se agragara estrcutura, buscando que sean mas agiles y que puedan ser portadas a futuras metodologias mas eficientes que tienen una curva de aprendizaje superior.
+
+=== Procedimiento
+
+* Se documentara los procedimientos actuales
+* Se evaluaran en conjunto las modificaciones para su optimizacion
+* Se creara una metrica para evaluar los resultados 
+* Cada modificacion que mejore la metrica formara perte de la nueva version
+*   
+
+
+
+ 
+[cols="1,2"]
+|===
+
+| Responsable| 
+|ID|
+|Fecha|
+|Revision|
+|Autor|
+|Departamento |
+|Tipo de proceso|
+|Plazos|
+
+|===
+
+documentacion asociada a este archivo
+
+
+.Documentacion  asociada a este proceso
+[cols="1,1"]
+|===
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+
+|===
+
+== Tipos de procesos
+Existen 4 tipos de procesos 
+
+* busqueda 
+*  Selectivo 
+* Abarcativo
+* Documental 
+
+== cosas generales 
+
+antes de hacer cualquier cosa piense y calcule
+
+
+
+
+

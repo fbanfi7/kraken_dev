@@ -1,0 +1,10 @@
+project_id = "cwbevytqwvrksygeixil"
+
+[functions.transcribe-audio]
+verify_jwt = true
+
+[functions.save-soap-note]
+verify_jwt = true
+
+[functions.get-soap-notes]
+verify_jwt = true

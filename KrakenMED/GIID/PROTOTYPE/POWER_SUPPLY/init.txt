@@ -1,0 +1,11 @@
+V0.2
+
+Autor: Tomas Rodriguez 
+
+Modificado por: Tomas Rodriguez
+18/11/2021
+
+Requerimientos de entrada para esta version:
+
+* Se contara con una alimentacion de 220V AC para el compresor, ventilador y bomba
+* Tambien contara con una alimentacion DC para la electronica de control

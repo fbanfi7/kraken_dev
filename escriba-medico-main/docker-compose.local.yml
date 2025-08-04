@@ -1,0 +1,36 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: medic
+      POSTGRES_PASSWORD: medic123
+      POSTGRES_DB: escriba
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_local:/var/lib/postgresql/data
+
+  api:
+    build: ./backend
+    env_file: ./backend/.env
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    volumes:
+      - notes_data:/app/generated_notes
+      - uploaded_audio_data:/app/uploaded_audio
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev
+    ports:
+      - "8080:8080"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - api
+volumes:
+  pg_local:
+  notes_data:
+  uploaded_audio_data:

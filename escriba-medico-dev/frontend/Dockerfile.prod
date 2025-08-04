@@ -1,0 +1,28 @@
+# Stage 1: Build the React application
+FROM node:18-alpine AS builder
+
+WORKDIR /app
+
+# Copy package management files
+COPY package*.json ./
+COPY bun.lockb ./
+
+# Install Bun and dependencies
+# Using Bun for faster installation
+RUN npm install -g bun
+RUN bun install --frozen-lockfile
+
+# Copy the rest of the application source code
+COPY . .
+
+# Build the production-ready static files
+# The output will be in the /app/dist directory
+RUN bun run build
+
+# Stage 2: Create a minimal image for serving content (for inspection if needed)
+# This stage is not strictly necessary for the final build but can be useful
+# for debugging the build output. The primary output is the /app/dist
+# directory from the 'builder' stage, which will be copied by Docker Compose.
+FROM alpine:latest
+RUN mkdir -p /usr/share/nginx/html
+COPY --from=builder /app/dist /usr/share/nginx/html

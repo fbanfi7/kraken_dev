@@ -1,0 +1,9 @@
+V 0.1
+
+Fecha de modificacion 18/11/2021
+
+Autor: Tomas Rodriguez
+
+Modificado por: Tomas Rodriguez
+
+Las ruedas deberan ser acordes a los tipos de pisos relevados durante las visitas a los servicios de oncologia y deberan contener freno a pedal.

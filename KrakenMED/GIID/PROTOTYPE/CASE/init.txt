@@ -1,0 +1,10 @@
+V0.1 
+26/05/2021
+
+Requerimientos de entrada para esta version:
+
+* Debe tener ruedas para desplazarse
+* Debe contener integramente al chiller
+* Debe tener un soporte para colocar los cascos y un display
+* Tiene que decir KrakenMED en su frente
+* Debe poder desmontarse en su parte trasera para tener acceso al chiller

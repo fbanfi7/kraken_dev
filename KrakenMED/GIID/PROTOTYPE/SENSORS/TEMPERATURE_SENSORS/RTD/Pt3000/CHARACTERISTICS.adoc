@@ -1,0 +1,9 @@
+|===
+|Proveedor |Precision |Precio |Rango |Otros
+
+| https://customer.honeywell.com/en-US/Pages/Product.aspx?cat=HonECC%2520Catalog&pid=SP3000-WR&category=SP3000&catpath=1.1.4.1.55#
+|+/-1.1
+|
+|-10 a 40 °C
+|Ni me gasto en ver el precio porque la precision es malisima
+|===

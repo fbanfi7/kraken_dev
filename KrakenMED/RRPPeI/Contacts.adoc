@@ -1,0 +1,26 @@
+v0.1
+Idea: unificar todso los contactos en un solo archivo teniendo en cuenta caracteristicas
+ 
+
+=   Contactos 
+== Crear por grupos los contactos dependiendo lugar de trabajo 
+
+Nombre
+
+titulo
+
+Institucion/empresa 
+
+cargo 
+
+telefono 
+
+email
+
+instagram
+
+twitter
+
+facebook
+
+

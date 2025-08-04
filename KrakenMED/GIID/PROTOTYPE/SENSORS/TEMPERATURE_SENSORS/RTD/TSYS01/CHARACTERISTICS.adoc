@@ -1,0 +1,12 @@
+Este es el mejor que encontre tiene buena precision y es de respuesta rapida
+
+
+|===
+|Proveedor |Precision |Precio |Rango |Otros
+
+| https://bluerobotics.com/store/sensors-sonars-cameras/sensors/celsius-sensor-r1/
+|+/-0.1
+|USD 60
+|-55 a 150 °C
+|Rapida respuesta, lleva esta PCB https://bluerobotics.com/store/sensors-sonars-cameras/sensors/celsius-sensor-pcb-r1/ que cuesta USD 36 y tambien encapsulados para el agua https://bluerobotics.com/product-category/watertight-enclosures/ que cuesta otros USD 60
+|===

@@ -1,0 +1,15 @@
+
+== Calculo de disipador utilizando analogía de Ley de Ohm 
+
+* Diferencia de temperatura es diferencia de tensión
+* Potencia generada es corriente
+* Resistencia es resistencia térmica
+
+*** P = (T1 - T2)/Rt
+*** Rt = L / k*A
+
+En nuestro caso tendremos la resistencia térmica del aluminio, 
+
+
+
+
